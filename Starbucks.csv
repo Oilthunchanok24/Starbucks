@@ -1,0 +1,549 @@
+﻿Brand,Store Number,Store Name,Ownership Type,Street Address,City,Province,Country,Postcode,Phone Number,Timezone,Longitude,Latitude
+Starbucks,24106-235604,Kota Laksamana DT,Licensed,"Plot B, Lot 2065, Pekan Klebang Seksyen IV",Melaka,Wilayah Persekutuan,MALAYSIA,,,GMT+08:00 Asia/Kuala_Lumpur,102.22,2.21
+Starbucks,28343-250636,Tesco Jenjarom,Licensed,"G6, Grd Flr, Tesco Jenjarom, 1, Jln 1/1, Tmn Seri Jaromas, Jenjarom",Selangor,Selangor,MALAYSIA,,,GMT+08:00 Asia/Kuala_Lumpur,101.42,3.12
+Starbucks,18456-156705,NU Sentral,Licensed,"No.201, Jalan Tun Sambathan, Lot 14&15 Concourse Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13
+Starbucks,18453-173544,Petronas Service Stat - Federal Hwy,Licensed,"KM 18.5, Federal Highway - KL Bound",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.08
+Starbucks,28255-250643,Seri Austin DT,Joint Venture,"Jalan Seri Austin 1, Taman Seri Austin",Johor Bahru,Johor,MALAYSIA,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.75,1.58
+Starbucks,28251-250642,Muar Bakri,Joint Venture,"Lot No. PTB 16019, Ground Floor, Jalan Bakri, Muar Johor",Muar,Johor,MALAYSIA,84000,,GMT+08:00 Asia/Kuala_Lumpur,102.6,2.05
+Starbucks,49680-270768,Sunrise Tower,Joint Venture,"Sunrise Tower, 190-192 Persiaran Gurney",Penang,Pulau Pinang,MALAYSIA,10250,,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.44
+Starbucks,29921-255992,Sunway Pyramid 3,Joint Venture,"SP3G001,GF,Sunway Pyramid Shopping Mall3, 3, Jln PJS 11/15, Bandar Sunway",Petaling Jaya,Selangor,MALAYSIA,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.07
+Starbucks,29875-255627,Petronas Equine Park DT,Joint Venture,"Petronas Station Equine Park 1, Mukim Petaling, Seri Kembangan",Selangor,Selangor,MALAYSIA,43300,,GMT+08:00 Asia/Kuala_Lumpur,101.67,2.97
+Starbucks,29788-255372,KSL Resort,Joint Venture,"32, Jalan Seladang, Taman Abad, Johor Bahru",Johor,Johor,MALAYSIA,80250,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.48
+Starbucks,49285-267764,Robinson Lopburi,Company Owned,"Phaholyothin Rd., Muang",Lopburi,Lopburi,THAILAND,15000,,GMT+07:00 Asia/Bangkok,100.69,14.78
+Starbucks,22145-218090,Kluang Mall,Licensed,"Jln Rambutan, G-10, Ground Floor","Bandar Kluang, Kluang",Johor,MALAYSIA,86000,,GMT+08:00 Asia/Kuala_Lumpur,103.32,2.04
+Starbucks,22152-218094,Petronas Bayu Senibong,Licensed,"Taman Bayu Senibong, Mukim Plentong, PTD 148135",Bayu Senibong,Johor,MALAYSIA,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.49
+Starbucks,18927-184364,Seri Alam,Licensed,"8 Jalan Suria, Bandar Seri Alam",Johor Bahru,Johor,MALAYSIA,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.87,1.5
+Starbucks,50001-272225,Senai Airport,Licensed,"Lot S11, Aero Mall, Senai International Airport",Johor Bahru,Johor,MALAYSIA,81250,,GMT+08:00 Asia/Kuala_Lumpur,103.67,1.64
+Starbucks,25311-240185,Danga Bay,Licensed,"Sales Gallery, Lot PTB 22056, Danga Bay, Jalan Skudai",Johor Bahru,Johor,MALAYSIA,80200,,GMT+08:00 Asia/Kuala_Lumpur,103.71,1.49
+Starbucks,21233-210285,Tesco Tebrau,Licensed,"No.1, Persiaran Desa Tebrau, Lot No.G7 & G8, Ground Floor",Johor Bahru,Johor,MALAYSIA,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.55
+Starbucks,20876-208707,AEON Kulaijaya,Licensed,"Persiaran Indahpura Utama, Bdr Indahpura, G68, Ground Floor",Johor Bharu,Johor,MALAYSIA,81000,,GMT+08:00 Asia/Kuala_Lumpur,103.62,1.64
+Starbucks,47501-258464,IOI Mall Kulai DT,Licensed,"Lot No. G-OSE 3/5/6, GF, IOI Mall Kulai, Lebuh Putra Utama, Bandar Putra",Kulai Johor,Johor,MALAYSIA,81000,,GMT+08:00 Asia/Kuala_Lumpur,103.6,1.68
+Starbucks,24971-239310,Shell Bandar Seri Alam,Licensed,"Lot S1, Ground Floor, PTD 220529, Persiaran Seri Alam, Bandar Seri Alam",MUKIM PLENTONG,Johor,MALAYSIA,81750,,GMT+08:00 Asia/Kuala_Lumpur,103.88,1.51
+Starbucks,19396-201906,Puteri Harbour,Licensed,"Persiaran Puteri Selatan, Puteri Harbour, Lot 1D, Ground Floor",Nusajaya,Johor,MALAYSIA,79000,,GMT+08:00 Asia/Kuala_Lumpur,103.66,1.42
+Starbucks,49288-267945,Segamat Sri Utama,Licensed,"Ground & 1st Floor, No. 25, Jalan Utama, 3/2",Segamat Johor,Johor,MALAYSIA,85000,,GMT+08:00 Asia/Kuala_Lumpur,102.82,2.51
+Starbucks,25161-238184,Taman Molek,Licensed,"Jalan Molek 3/20, Taman Molek, 21-G & 21-1",Taman Molek,Johor,MALAYSIA,81100,,GMT+08:00 Asia/Kuala_Lumpur,103.79,1.53
+Starbucks,22462-221127,The Shore,Licensed,"Jalan Persiaran Bunga Raya, GF-10",Melaka Tengah,Wilayah Persekutuan,MALAYSIA,75300,,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.2
+Starbucks,19790-202844,Port Dickson,Licensed,"PD Waterfront, HS(D) 8376 PT 74, Port of HS(D) 9376 PT 74",Port Dickson,Negeri Sembilan,MALAYSIA,71000,,GMT+08:00 Asia/Kuala_Lumpur,101.79,2.52
+Starbucks,22609-222727,Petron Genting Permai,Licensed,"Jalan Permai 2, Genting Permai Avenue, Lot 21078",Genting Highlands,Pahang,MALAYSIA,69000,,GMT+08:00 Asia/Kuala_Lumpur,101.77,3.39
+Starbucks,22610-222730,Starbucks Teluk Cempedak,Licensed,"Jalan Tengku Abu Bakar, No 1&2, Pusat Rekreasi, Teluk Cempedak",Kuantan,Pahang,MALAYSIA,25050,,GMT+08:00 Asia/Kuala_Lumpur,103.37,3.81
+Starbucks,50376-274504,Sky Avenue,Licensed,"Lot T2B-31, Sky Avenue, Genting Highlands",Pahang,Pahang,MALAYSIA,69000,,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42
+Starbucks,24509-238149,AEON - Bukit Mertajam,Licensed,Lot G08 & G08A,Bukit Mertajam,Pulau Pinang,MALAYSIA,14000,,GMT+08:00 Asia/Kuala_Lumpur,100.44,5.37
+Starbucks,25802-242470,Icon City DT,Licensed,Bukit Tengah,Bukit Mertajam,Pulau Pinang,MALAYSIA,14000,,GMT+08:00 Asia/Kuala_Lumpur,100.43,5.34
+Starbucks,26885-245712,Raja Uda DT,Licensed,"Butterworth Business City Centre, Jalan Raja Uda",Butterworth,Pulau Pinang,MALAYSIA,12300,,GMT+08:00 Asia/Kuala_Lumpur,100.38,5.43
+Starbucks,22745-224006,Sri Pinang DT,Licensed,"Lebuh Sungai Pinang, L1-1, L1-2, L1-3, L2-1",Georgetown,Pulau Pinang,MALAYSIA,11600,,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.4
+Starbucks,23030-227024,Burmah Road,Licensed,"Jalan Burmah, 403-A",Georgetown,Pulau Pinang,MALAYSIA,10350,,GMT+08:00 Asia/Kuala_Lumpur,100.32,5.43
+Starbucks,33910-247010,Mansion One,Licensed,"Ground Floor, Mansion 1, Jalan Sultan Ahmad Shah",Penang,Pulau Pinang,MALAYSIA,10050,,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.42
+Starbucks,20851-208705,Gurney Paragon,Licensed,"G-30, Gurney Paragon, Persiaran Gurney",Penang,Pulau Pinang,MALAYSIA,10250,,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.43
+Starbucks,48204-251331,Design Village,Licensed,"esLot G30,733 Jalan Cassia Barat 2, 14110 Bandar Cassia",Penang,Pulau Pinang,MALAYSIA,0,,GMT+08:00 Asia/Kuala_Lumpur,100.29,5.4
+Starbucks,23201-228504,Batu Ferringhi,Licensed,"69, Jalan Batu Ferringhi",Penang,Pulau Pinang,MALAYSIA,11000,,GMT+08:00 Asia/Kuala_Lumpur,100.25,5.47
+Starbucks,20065-147988,Sunway Tambun DT,Licensed,"Part of Lost HS(D) KA 72917, Mukim Hulu, Kinta, Daerah Kinta",Ipoh,Perak,MALAYSIA,31150,,GMT+08:00 Asia/Kuala_Lumpur,101.15,4.63
+Starbucks,21353-212064,Medan Gopeng,Licensed,"Jalan Raja Dr. Nazrin Shah, Jalan Gopeng, Kampung Rapat",Ipoh,Perak,MALAYSIA,31350,,GMT+08:00 Asia/Kuala_Lumpur,101.11,4.57
+Starbucks,23238-228624,Kampar Tin Village,Licensed,"Lot No. 5 & 6, Ground Floor, Tin Village Mall",Kampar,Perak,MALAYSIA,31900,,GMT+08:00 Asia/Kuala_Lumpur,101.15,4.33
+Starbucks,22627-222729,AEON Taiping,Licensed,"Lot G08, Ground Floor, AEON Mall Taiping, Jalan Kamunting",Taiping,Perak,MALAYSIA,34600,,GMT+08:00 Asia/Kuala_Lumpur,100.73,4.87
+Starbucks,22143-218093,Petronas Ampang Jaya,Licensed,"Tmn Dato Ahmad Razali, Phase 1, Grd Floor",Ampang,Selangor,MALAYSIA,68000,,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.16
+Starbucks,47836-260028,D Pulze,Licensed,"G 28, D PULZE Shopping Centre,, Lingkaran Cyber Point Timur, Cyber 12",Cyberjaya,Selangor,MALAYSIA,63000,,GMT+08:00 Asia/Kuala_Lumpur,101.65,2.92
+Starbucks,29248-253094,Tesco Bandar Bukit Puchong,Licensed,"Lot G1, Grd Flr, Tesco Bdr Bkt Puchong, PT 80259, Jln BP7/1, Bdr Bkt Puchong",Mukim Petaling,Selangor,MALAYSIA,47110,,GMT+08:00 Asia/Kuala_Lumpur,101.45,3.08
+Starbucks,22140-218092,Menara Axis,Licensed,"No.2 Jln 51A/223, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,46100,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.1
+Starbucks,23249-228625,Atria,Licensed,"G39, Ground Floor Atria Shopping Gallery, Jalan 22/23, Damansara Jaya",Petaling Jaya,Selangor,MALAYSIA,47400,,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13
+Starbucks,22532-221926,Encorp Strand,Licensed,"No 1. Kalan PJU 5/23, Pusat Perdagangan, Log G-08 &G-09, Ground floor",Petaling Jaya,Selangor,MALAYSIA,47810,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.16
+Starbucks,22157-218091,Damansara Perdana,Licensed,"Jalan PJU 8/8, A=LG-03",Petaling Jaya,Selangor,MALAYSIA,47820,,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.17
+Starbucks,50000-272226,PJ8,Licensed,"No 21, Jalan Barat, Petaling Jaya, Selangor",Petaling Jaya,Selangor,MALAYSIA,46200,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.1
+Starbucks,33903-213724,Jaya Shopping Centre,Licensed,"Lot G15 & G-16, Ground Floor, Lot G 15A & G-16, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,46100,,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.11
+Starbucks,48866-265645,Amcorp Tower,Licensed,"G-01, Grd Flr, Amcorp Tower, 18, Persiaran Barat",Petaling Jaya Selangor,Selangor,MALAYSIA,46050,,GMT+08:00 Asia/Kuala_Lumpur,101.65,3.1
+Starbucks,24238-236224,Bandar Puteri Puchong,Licensed,"Lot TC-05, IOI Galleria @ The Cube",Puchong,Selangor,MALAYSIA,47100,,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.03
+Starbucks,33953-222728,Alamanda 2 at AGC,Licensed,"Bangunan Jabatan Peguan Negara AGC, Persint 4, Lot 1, Level 1",Putrajaya,Selangor,MALAYSIA,62100,,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.94
+Starbucks,22142-218089,Petronas Rawang R&R,Licensed,"Rawat Rawang, Lebuhraya Utara Selatan, (Arah Utara)",Rawang,Selangor,MALAYSIA,48000,,GMT+08:00 Asia/Kuala_Lumpur,101.56,3.33
+Starbucks,21579-208704,SDMC,Licensed,"Sime Darby Medical Centre, No. 1, Jalan SS 12/1a, SS12, Subang Jaya",Selangor,Selangor,MALAYSIA,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.08
+Starbucks,26044-243286,Citta Mall,Licensed,"G15, Ground Floor, Citta Mall, 1, Jln PJU 1A/48, Jln PJU 1, Ara Dsara",Selangor,Selangor,MALAYSIA,47301,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.11
+Starbucks,48865-265667,Mitsui Outlet Park,Licensed,"Lot G65, Mitsui Outlet Park, KLIA, Sepang",Selangor,Selangor,MALAYSIA,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.68,2.78
+Starbucks,20856-208706,Petronas Lingkaran Karak,Licensed,"Lebuhraya KL-Karak,Mukim Setapak, Gombak",Selangor,Selangor,MALAYSIA,68100,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46
+Starbucks,48353-263108,KLIA 2 Satellite,Licensed,"Lot No. S6-2-A41, Departure Level",Sepang,Selangor,MALAYSIA,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74
+Starbucks,19337-195305,Gateway at KLIA2,Licensed,"Unit No. L3-25 Level 3, Gateway @ KLIA2",Sepang,Selangor,MALAYSIA,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74
+Starbucks,19406-198925,KLIA2 - Airside Domestic,Licensed,"S1-1a-A02, Domestic Departure & Arrival, Level (Airside), KLIA2",Sepang,Selangor,MALAYSIA,64000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74
+Starbucks,47928-260550,Mines City DT,Licensed,"L3-19AP, Level 3, The Mines, Jalan Dulang, MINES Resort City",Seri Kembangan,Selangor,MALAYSIA,43300,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.03
+Starbucks,19754-195208,Main Place,Licensed,"Jalan USJ 21/10, Persiaran Kewajipan, Lot No. GF-01",Subang Jaya,Selangor,MALAYSIA,47630,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.03
+Starbucks,25148-239966,One City,Licensed,"Jalan USJ 25/1, No A-GF-03, A-GF-03A & A-GF-03B",Subang Jaya,Selangor,MALAYSIA,47650,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.02
+Starbucks,25804-242471,Da Men,Licensed,"Lot LG-8, Lower Ground Floor, Jalan USJ Sentral 1, USJ Sentral",Subang Jaya,Selangor,MALAYSIA,47500,,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.07
+Starbucks,23673-216288,Imago KK Times Square,Licensed,"G33B & G33C, Ground Floor, Imago KK Times Square",Kota Kinabalu,Sabah,MALAYSIA,88100,,GMT+000000 Asia/Kuching,116.07,5.97
+Starbucks,20800-207344,Oceanus Waterfront,Licensed,"Jalan Fuad Stephen, Unit G35, Ground Floor",Kota Kinabalu,Sabah,MALAYSIA,88000,,GMT+000000 Asia/Kuching,116.07,5.98
+Starbucks,47722-259544,Kota Kinabalu Intl Airport (Landsid,Licensed,"L1L10, Lvl 1 Landside, Terminal 1",Sabah,Sabah,MALAYSIA,88740,,GMT+000000 Asia/Kuching,116.09,5.97
+Starbucks,21630-213708,Bintulu Times Square Mall,Licensed,"Lot No. 20B, Level 1,, Time Square Megamall",Bintulu,Sarawak,MALAYSIA,97014,,GMT+08:00 Asia/Kuala_Lumpur,102.23,4.41
+Starbucks,18641-193904,Summer Mall,Licensed,"Jalan Dato Mohd Musa, G25,G25,G27,G98&G9, G25,G25,G27,G98&G99",Kota Samarahan,Sarawak,MALAYSIA,93350,,GMT+08:00 Asia/Kuala_Lumpur,110.43,1.46
+Starbucks,19720-201166,Imperial City Mall,Licensed,"Jalan Merpati, Ground Floor",Miri,Sarawak,MALAYSIA,98000,,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.4
+Starbucks,47500-258465,Marina Parkcity DT,Licensed,"No. 1, Block 9, Miri Concession Land District",Miri Sarawak,Sarawak,MALAYSIA,98000,,GMT+08:00 Asia/Kuala_Lumpur,114.03,4.29
+Starbucks,47946-260564,Sibu Pedada,Licensed,"Lot 3047 Block 3, Sibu Town District, Jalan Pedada",Sibu,Sarawak,MALAYSIA,96000,,GMT+08:00 Asia/Kuala_Lumpur,111.85,2.31
+Starbucks,25155-237965,MBC Tower,Licensed,"11, Jalan Raja Laut, Ground Floor",KL,Wilayah Persekutuan,MALAYSIA,50100,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.16
+Starbucks,28994-252012,TREC,Licensed,"E-G-15 & E-A-15, Ground Floor, Electric Boulevard, TREC",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15
+Starbucks,49999-272228,Publika,Licensed,"Lot 42, G2, Publika Shopping Gallery, No. 1, Jln Dutamas 1, Solaris Dutamas",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50480,,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.17
+Starbucks,24275-236921,Menara Binjai,Licensed,"No.2, Jalan Binjai, G-02",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.16
+Starbucks,25308-240184,Mid Valley 2,Licensed,"T-073, Third Floor, Mid Valley Megamall, Lingkaran Syed Putra",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59200,,GMT+08:00 Asia/Kuala_Lumpur,103.73,1.47
+Starbucks,18461-186352,Cheras Sentral,Licensed,"Lot LG-16, 17 & 18, Low Ground Floor, Cheras Sentral",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,56000,,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.08
+Starbucks,21871-206347,Quill City Mall,Licensed,Jalan Sultan Ismail,Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50250,,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.16
+Starbucks,21707-214566,Taman Connaught,Licensed,"2, Jalan Menara Gading 1, Ground Floor, Taman Connaught",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,56000,,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.08
+Starbucks,24624-238387,Sunway Velocity,Licensed,"Jalan Cheras, Cheras",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.13
+Starbucks,19120-178904,Club Nexu5,Licensed,"Club Nexu5, Bangsar South, Lot F&B 01, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59200,,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.13
+Starbucks,21868-213704,Teknology Park Malaysia DT,Licensed,"Jalan Teknologi Malaysia, Wisma Scope International, PT15084",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,57000,,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.05
+Starbucks,20431-205551,Avenue K,Licensed,"156 Jalan Ampang, G-7, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16
+Starbucks,48876-265646,Ampang DT,Licensed,"Lot 4258 & 4259, Jalan Ampang",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.44,3.09
+Starbucks,23233-228626,Kepong Village Mall,Licensed,"No.3, Jln 7A/62A, Bdr Menjalara, Lot G1 & G2, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,52200,,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.19
+Starbucks,18947-196928,Lot 10,Licensed,"50 Jalan Sultan Ismail, Lot H-20 Terrace, Lot 10 Shopping Centre",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50250,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,21220-210284,SOHO KL,Licensed,"Solaris Mont Kiara, No.2, Jalan Solaris, Mont Kiara",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50480,,GMT+08:00 Asia/Kuala_Lumpur,101.66,3.18
+Starbucks,22141-218086,Wisma UOA,Licensed,"No.19, Jalan Pinang, 19-1-2, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,49170-267228,Labuan Airport,Licensed,"L1L06, Level 1, Landside, Labuan Airport, Jalan Tun Mustapha, Taman Sec Airport",Labuan,Wilayah Persekutuan,MALAYSIA,87015,,GMT+000000 Asia/Kuching,115.26,5.3
+Starbucks,26648-244844,Komtar JBCC,Licensed,"Lot No.239, Second Floor, JBCC, Johor Bahru City Centre",Johor Bahru,Johor,MALAYSIA,80000,,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46
+Starbucks,24880-197644,IOI City,Licensed,"Unit No. GE-2, Ground Floor,, IOI City Mall",Putrajaya,Wilayah Persekutuan,MALAYSIA,62502,,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.97
+Starbucks,49441-269128,Ibis building,Licensed,"2 Hong Ha st, Ward 2, Tan Binh Dist, Tầng trệt Tòa Nhà President Place",Ho Chi Minh,Ho Chi Minh,VIETNAM,0,,GMT+000000 Asia/Saigon,106.67,10.81
+Starbucks,23633-223885,Đông Du,Licensed,"38 Đông Du, Quận 1",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,,GMT+000000 Asia/Saigon,106.7,10.78
+Starbucks,16866-169626,Mega Bangna,Company Owned,"38,39, Moo 6 Bangna-Trad km 8 rd.",Bang Plea,Samut Prakarn,THAILAND,10540,908806194,GMT+07:00 Asia/Bangkok,100.68,13.65
+Starbucks,3152-136561,ConcourseB-Airside-SAP,Company Owned,"999, Passenger terminal, 4th floor, Suvarnabhumi airport, Moo1, Suvarnabhumi Airport - BKK",Bangphi,Samut Prakarn,THAILAND,10540,844387442,GMT+07:00 Asia/Bangkok,100.75,13.69
+Starbucks,31109-103519,Suvarnabhumi Airport,Company Owned,"999, Passenger terminal, 3rd Floor, Suvarnabhumi airport, Moo 1",Bangphi,Samut Prakarn,THAILAND,10540,844387400,GMT+07:00 Asia/Bangkok,100.75,13.69
+Starbucks,1959-143984,Lotus Srinakarin-Samut Prakarn,Company Owned,"Lotus Srinakarin, No. 9, Moo 6, Srinakarin road",Muang,Samut Prakarn,THAILAND,10270,844387450,GMT+07:00 Asia/Bangkok,100.62,13.62
+Starbucks,27571-239306,At United Bangna,Company Owned,"Bangna-Trad Road, Bang Keaw, Bang Plea, Market Village Suvarnabhumi",Samut Prakan,Samut Prakarn,THAILAND,10540,626010570,GMT+07:00 Asia/Bangkok,100.66,13.66
+Starbucks,25508-241152,Market Village Suvarnabhumi,Company Owned,"99/28 Moo1 Rachathewa, Bangplee",Samutprakarn,Samut Prakarn,THAILAND,10540,613852963,GMT+07:00 Asia/Bangkok,100.71,13.63
+Starbucks,23817-233151,Robinson Samutprakarn,Company Owned,"Sukhumvit rd., Tai Ban, Mueng",Samutprakarn,Samut Prakarn,THAILAND,10280,922601405,GMT+07:00 Asia/Bangkok,100.61,13.58
+Starbucks,16496-171973,The Walk Ratchapruek,Company Owned,"189 The Walk Ratchapruek, Moo2 Ratchapruek Road, The Chaengwattana Avenue",Bang Kruai,Nonthaburi,THAILAND,11130,818457414,GMT+07:00 Asia/Bangkok,100.45,13.82
+Starbucks,31106-99895,SF Chaengwattana,Company Owned,"104/45, The Chaengwattana Avenue, Moo 1 Chaengwattana Road",Lanksi,Bangkok,THAILAND,10210,844387376,GMT+07:00 Asia/Bangkok,100.56,13.89
+Starbucks,31107-104476,HomeWorks Rattanathibeth,Company Owned,"68/100, 1st Floor HomeWorks, Rattanathibeth. Moo 8 Rattanathibeth Rd, Central West Gate-2nd Floor",Muang,Nonthaburi,THAILAND,11000,844387396,GMT+07:00 Asia/Bangkok,100.5,13.87
+Starbucks,25740-242173,Central West Gate-2nd Floor,Company Owned,"199,199/1,199/2 2nd Floor, Moo, Saothonghin,Bangyai, Central West Gate-1st Floor",Nontha Buri,Nonthaburi,THAILAND,11140,614192836,GMT+07:00 Asia/Bangkok,100.41,13.88
+Starbucks,25741-242172,Central West Gate-1st Floor,Company Owned,"199,199/1,199/2 1st Floor, Moo 6, Saothonghin, Bangyai, Robinson Srisamarn",Nontha Buri,Nonthaburi,THAILAND,11140,982573115,GMT+07:00 Asia/Bangkok,100.41,13.88
+Starbucks,28737-250875,Robinson Srisamarn,Company Owned,"Srisamarn rd., BaanMai, Pakkred, The Crystal Ratchapruek",Nonthaburi,Nonthaburi,THAILAND,11120,614216430,GMT+07:00 Asia/Bangkok,100.55,13.94
+Starbucks,22328-202165,The Crystal Ratchapruek,Company Owned,"Ratchapruek Road, Bangkanun, Bangkruay",Nonthaburi,Nonthaburi,THAILAND,11130,844387438,GMT+07:00 Asia/Bangkok,100.45,13.81
+Starbucks,20069-202164,The Crystal PTT Chaiyapruek,Company Owned,"Chaiyapruek Road, Klongpornadum, Pak Kre",Nonthaburi,Nonthaburi,THAILAND,11120,982514512,GMT+07:00 Asia/Bangkok,100.47,13.92
+Starbucks,33746-96051,Impact,Company Owned,"99, Popular Road, Sport City",Pakkred,Nonthaburi,THAILAND,11120,844387366,GMT+07:00 Asia/Bangkok,100.55,13.91
+Starbucks,33755-99308,Sport City,Company Owned,"20/262-4, Moo 9 Prachachean Road",Pakkred,Nonthaburi,THAILAND,11120,844387378,GMT+07:00 Asia/Bangkok,100.55,13.88
+Starbucks,33737-87883,Nichada Thani,Company Owned,"39/514, Moo 3, ZPELL",Pakkred,Nonthaburi,THAILAND,11120,844387354,GMT+07:00 Asia/Bangkok,100.53,13.89
+Starbucks,28738-250876,ZPELL,Company Owned,"Phaholyothin Road, Prachatippathai, Thunburi",Pathum Thani,Pathum Thani,THAILAND,12130,614219074,GMT+07:00 Asia/Bangkok,100.62,13.99
+Starbucks,20815-207466,Auto Mall - Navanakorn,Company Owned,"Phaholyothin Road, Klong 1, Klong Luang, Rangsit University",Pathum Thani,Pathum Thani,THAILAND,12120,982769130,GMT+07:00 Asia/Bangkok,100.62,14.11
+Starbucks,47915-260265,Rangsit University,Company Owned,"52/347 Muang-Ek Village Paholyothin Road, Lakhok, Muang,, Thammasat University - Rangsit",Prathumthani,Pathum Thani,THAILAND,12000,613896271,GMT+07:00 Asia/Bangkok,100.59,13.96
+Starbucks,47919-260264,Thammasat U. Rangsit Library,Company Owned,"99 Moo 18 Paholyothin Road,, Klong Luang, Rangsit,, Future Park Rangsit",Prathumthani,Pathum Thani,THAILAND,12121,613896270,GMT+07:00 Asia/Bangkok,100.6,14.07
+Starbucks,30797-100558,Future Park Rangsit,Company Owned,"94, Future Park Rangsit, Phaholyothin Road",Thunburi,Pathum Thani,THAILAND,12130,844387389,GMT+07:00 Asia/Bangkok,100.62,13.99
+Starbucks,21259-210352,Fast Fac,Company Owned,"Phaholyothin Road km56, Lamsai Sub-district, Wangnoi District, 126 Moo 3 Highway no.32",Phra Nakhon Si Ayutthaya,Ayutthaya,THAILAND,13170,922834319,GMT+07:00 Asia/Bangkok,100.64,14.19
+Starbucks,20220-204224,Ayutthaya City Park,Company Owned,"126 Moo 3 Highway no. 32, Klong Suanploo, Robinson Lopburi",Phra Nakhon Si Ayutthaya,Ayutthaya,THAILAND,13000,922614354,GMT+07:00 Asia/Bangkok,100.61,14.34
+Starbucks,32022-129646,SF Pattaya,Company Owned,"399/9 , Room No.C105.2 & C204, 1st & 2nd Floor, The Avenue Pattaya, Central Pattaya Center",Banglamung,Chonburi,THAILAND,20150,844387420,GMT+07:00 Asia/Bangkok,100.88,12.93
+Starbucks,50094-272708,Central Marina,Company Owned,"78/54 M.9 Pattaya 3 Road,Nongprue, Bang Lamung",Chon Buri,Chonburi,THAILAND,20260,614201392,GMT+07:00 Asia/Bangkok,100.89,12.95
+Starbucks,48751-264825,The Bay Pattaya,Company Owned,"225, Pattaya Beach Road. Moo 9, Nongprue, Banglamung",Chonburi,Chonburi,THAILAND,20150,613977918,GMT+07:00 Asia/Bangkok,100.89,12.94
+Starbucks,23396-229764,Samitivej Sriracha Hospital,Company Owned,"8 Soi Laemket, Jermjompol Road, Sriracha, Habor Mall Pattaya Klang",Chonburi,Chonburi,THAILAND,20110,922834119,GMT+07:00 Asia/Bangkok,100.93,13.18
+Starbucks,27079-246487,Harbormall Pattaya Klang,Company Owned,"Moo. 9 ,Pattaya Klang rd., Nong-Prue, Banglamung, Laemthong Bangsaen",Chonburi,Chonburi,THAILAND,20150,626029417,GMT+07:00 Asia/Bangkok,100.9,12.93
+Starbucks,26558-244424,Laemthong Bangsaen,Company Owned,"278/2 Longhadbangsan Rd., Sansuk, Muang, Central Plaza Chonburi",Chonburi,Chonburi,THAILAND,20131,626015139,GMT+07:00 Asia/Bangkok,100.93,13.29
+Starbucks,1526-135685,Central Chonburi,Company Owned,"Unit # 130, OP111/1, No. 55/88-89, 1 fl, Central Plaza Moo 1, Sukhumvit Rd, Harbormall",Muang,Chonburi,THAILAND,20000,844387453,GMT+07:00 Asia/Bangkok,100.97,13.34
+Starbucks,1477-140950,Harbormall Laemchabung,Company Owned,"4/222, Moo 10, Sukhumvit Road",Sriracha,Chonburi,THAILAND,20230,844387445,GMT+07:00 Asia/Bangkok,100.92,13.08
+Starbucks,32038-129624,Pacific Park Sriracha,Company Owned,"90 Pacific Park Sriracha, Unit 119, First floor, Sukhumvit Road (Km.118)",Sriracha,Chonburi,THAILAND,20110,844387421,GMT+07:00 Asia/Bangkok,100.93,13.17
+Starbucks,32183-131672,Laemthong Rayong,Company Owned,"554 Lamthong Shopping Plaza, Rayong 1S01-03, Sukhumvit Road, Noen Pra, Central Plaza Rayong",Muang Rayong,Rayong,THAILAND,21000,844387426,GMT+07:00 Asia/Bangkok,101.25,12.68
+Starbucks,25905-242705,Central Plaza Rayong,Company Owned,"Bangna-Trad (Sai36) rd.,, Tha Pradu,Muang",Rayong,Rayong,THAILAND,21000,922590176,GMT+07:00 Asia/Bangkok,101.27,12.7
+Starbucks,33744-95479,Motorway Outbound,Company Owned,"45/64-5, Moo 7",Bangpakong,Chachoengsao,THAILAND,24130,844387365,GMT+07:00 Asia/Bangkok,101.01,13.54
+Starbucks,30726-101017,Motorway Inbound,Company Owned,"85/65, Moo 1",Bangpakong,Chachoengsao,THAILAND,24130,844387381,GMT+07:00 Asia/Bangkok,101.01,13.54
+Starbucks,18046-188445,Motorway Outbound 2,Company Owned,"45/21-25, Moo 7, Robinson Chachoengsao",Bangpakong,Chachoengsao,THAILAND,24130,908801490,GMT+07:00 Asia/Bangkok,101.01,13.54
+Starbucks,23818-233150,Robinson Chachoengsao,Company Owned,"Na-Mueng, Na-Mueng",Chachoengsao,Chachoengsao,THAILAND,24000,982769188,GMT+07:00 Asia/Bangkok,101.05,13.67
+Starbucks,29561-254287,Motorway Inbound 2,Company Owned,"85/30-32 moo 1, Khondin, Bangpakong, The Mall Khorat - Muang District",Chachoengsao,Chachoengsao,THAILAND,24130,626029482,GMT+07:00 Asia/Bangkok,101.01,13.54
+Starbucks,32104-132064,The Mall Khorat,Company Owned,"Ground flr, The Mall Khorat dept store,, No. 1242/2, Mitrapab road, Terminal 21 Korat",Muang Nakhonratchasima,Nakhonratchasima,THAILAND,30000,844387425,GMT+07:00 Asia/Bangkok,102.08,14.98
+Starbucks,48469-263244,Terminal 21 Korat,Company Owned,"99, Mittraphap - Nong khai Road, Naimuea",Nakhon Ratchasima,Nakhonratchasima,THAILAND,30000,614201391,GMT+07:00 Asia/Bangkok,102.09,14.98
+Starbucks,31909-124465,Outlet Village-KhaoYai,Company Owned,"888 Outlet Village Korat,, Moo 7, Mitraphab Road,, Robinson Burirum",Pakchong,Nakhonratchasima,THAILAND,30130,844387418,GMT+07:00 Asia/Bangkok,101.39,14.66
+Starbucks,26560-244386,Robinson Burirum,Company Owned,"Buriram-Phud Thai Song Rd.(NH#218), Mueng",Burirum,Burirum,THAILAND,31000,625973943,GMT+07:00 Asia/Bangkok,103.07,14.97
+Starbucks,22243-218965,Robinson Surin,Company Owned,"338 Moo 16, Saluk-Dai, Muang Surin",Surin,Surin,THAILAND,32000,922798167,GMT+07:00 Asia/Bangkok,103.53,14.88
+Starbucks,19117-188448,Central Ubonratchathani,Company Owned,"311 Moo.7, Sapphasit Road",Muang Ubon Ratchathani,Ubon Ratchathani,THAILAND,34000,844387398,GMT+07:00 Asia/Bangkok,104.82,15.24
+Starbucks,21260-210347,Sunee Tower,Company Owned,"Chayangkul Road, Kamyai Sub-district, Muang District",Ubon Ratchathani,Ubon Ratchathani,THAILAND,34000,922461889,GMT+07:00 Asia/Bangkok,104.85,15.26
+Starbucks,26450-240784,Wufoo Khonkaen,Company Owned,"Mitraphab Road, Nai-Muang, Muang, Central Plaza Khonkaen",Khon Kaen,khonkaen,THAILAND,40000,614172005,GMT+07:00 Asia/Bangkok,102.82,16.41
+Starbucks,6144-149766,Central Khonkaen,Company Owned,"Central Plaza Khonkaen, 99,99/1, 1st floor, Srijun road",Muang,khonkaen,THAILAND,40000,844387455,GMT+07:00 Asia/Bangkok,102.83,16.43
+Starbucks,31579-113088,Tuk Com KhonKaen,Company Owned,"250/1, Room GS 26 Ground Floor, Srijun Road",Muang,khonkaen,THAILAND,40000,844387409,GMT+07:00 Asia/Bangkok,102.83,16.43
+Starbucks,18711-194484,Tuk Com Udon,Company Owned,"Tuk Com Udon, Udondutsadee Road",Muang,Udon Thani,THAILAND,41000,818052846,GMT+07:00 Asia/Bangkok,102.79,17.41
+Starbucks,19175-188465,UD Town,Company Owned,"UD Town, 88, Thong Yai Road, Central Plaza Udon Thani",Muang,Udon Thani,THAILAND,41000,898128939,GMT+07:00 Asia/Bangkok,102.8,17.4
+Starbucks,17012-169624,Central Udon Thani,Company Owned,"277/1-3, 271/5, 1st floor (unit. 117), Central Udon Thani, Prajaksillapakhom Rd",Muang Udon Thani,Udon Thani,THAILAND,41000,844387367,GMT+07:00 Asia/Bangkok,102.8,17.41
+Starbucks,31819-120544,Big Jieng NongKhai,Company Owned,"304 Big Jieng, Room A-30, Ground Floor,, Moo 10, Mitrabhab Road,","Muang,",NongKhai,THAILAND,43000,844387413,GMT+07:00 Asia/Bangkok,102.74,17.87
+Starbucks,21254-210349,Sermthai Complex,Company Owned,"Nakhonsawan Road, Talad Sub-district, Muang District, Robinson Roi Et",Maha Sarakham,Maha Sarakham,THAILAND,44000,844387443,GMT+07:00 Asia/Bangkok,103.28,16.2
+Starbucks,23754-233147,Robinson Roi Et,Company Owned,"Nua-Mueng, Mueng",Roi Et,Roi Et,THAILAND,45000,982769187,GMT+07:00 Asia/Bangkok,103.62,16.06
+Starbucks,20245-200745,Central Festival Chiang Mai,Company Owned,"99 Moo 4, Super Highway Rd, Muang",Chaing Mai,Chiang Mai,THAILAND,50000,922614320,GMT+07:00 Asia/Bangkok,99.02,18.8
+Starbucks,21903-216325,Maya Chiang Mai,Company Owned,"55 Moo 5 Huay Kaew Road, Chang Phuak, Muang Chiang Mai, Chiangmai Ram Hospital",Chiang Mai,Chiang Mai,THAILAND,50000,922798162,GMT+07:00 Asia/Bangkok,98.97,18.8
+Starbucks,48161-259669,Chiangmai Ram Hospital,Company Owned,"Bun Rueang Rit Rd., Sri Bhumi,, Muang",Chiang Mai,Chiang Mai,THAILAND,50200,625984962,GMT+07:00 Asia/Bangkok,98.98,18.79
+Starbucks,21813-215327,Chiangmai Airport,Company Owned,"60 Chiang Mai International Airport, Moo 3, Airport Rd. Suthep, Mueang",Chiang Mai,Chiang Mai,THAILAND,50200,922464167,GMT+07:00 Asia/Bangkok,98.97,18.77
+Starbucks,27916-248931,Kad Farang,Company Owned,"Chiangmai-Hod Rd, Hang Dong",Chiangmai,Chiang Mai,THAILAND,50230,626015140,GMT+07:00 Asia/Bangkok,98.93,18.7
+Starbucks,33723-58139,Chiangmai,Company Owned,"110, Changclan Road",Muang,Chiang Mai,THAILAND,50200,844387339,GMT+07:00 Asia/Bangkok,99,18.78
+Starbucks,30791-102083,Chiangmai Nimmanhemin,Company Owned,"43, Tall Teak Plaza, Nimmanhemin Road",Muang,Chiang Mai,THAILAND,50200,844387384,GMT+07:00 Asia/Bangkok,98.97,18.8
+Starbucks,30887-102551,Chiangmai Tha Pae,Company Owned,"418-420,422, Tha Pae Road",Muang,Chiang Mai,THAILAND,50300,844387388,GMT+07:00 Asia/Bangkok,98.99,18.79
+Starbucks,33734-83811,Chiangmai2,Company Owned,"2, Central Airport Plaza, Mahidol Road",Muang,Chiang Mai,THAILAND,50000,844387350,GMT+07:00 Asia/Bangkok,98.98,18.77
+Starbucks,31710-116109,Kad Suan Kaew,Company Owned,"21, Ground Floor, Huay Kaew Road",Muang Chiangmai,Chiang Mai,THAILAND,50200,844387411,GMT+07:00 Asia/Bangkok,98.98,18.8
+Starbucks,18432-188444,Central Lampang,Company Owned,"unit no. 131, 1st Floor, No. 319, Central Lampang, Hiway Lampang-Ngao",Muang,Lampang,THAILAND,52100,847517736,GMT+07:00 Asia/Bangkok,99.49,18.28
+Starbucks,15289-156384,Central Chiangrai,Company Owned,"No. 163, 163-T, K06, STO102, Central Chiangrai. Phaholyothin road, V-Square Plaza",Muang Chiangrai,Chiangrai,THAILAND,57000,844387352,GMT+07:00 Asia/Bangkok,99.83,19.89
+Starbucks,47220-257245,V-Square Plaza,Company Owned,"320/11 Sawanvithee road, Paknampo Muang, Central Phitsanulok",Nakhonsawan,Nakhonsawan,THAILAND,60000,632673390,GMT+07:00 Asia/Bangkok,100.12,15.69
+Starbucks,16181-165090,Central Phitsanulok,Company Owned,"9/99, unit no. 160-161, 1st Floor, Central Phitsanulok, Moo 5, Singhawat Rd, Robinson Ratchaburi",Muang Phitsanulok,Phitsanulok,THAILAND,65000,818228242,GMT+07:00 Asia/Bangkok,100.23,16.84
+Starbucks,49377-267964,Robinson Ratchaburi,Company Owned,"265 Srisuriyawong Rd., Tambon Na Mueng, Mueang",Ratchaburi,Ratchaburi,THAILAND,70000,625985968,GMT+07:00 Asia/Bangkok,99.81,13.53
+Starbucks,23438-230105,Central Plaza Salaya,Company Owned,"Borommaratchachonnani Road, Song Kanong,",Nakhon Pathom,Nakhon Pathom,THAILAND,73170,844387399,GMT+07:00 Asia/Bangkok,100.28,13.79
+Starbucks,24082-224349,The Mood,Company Owned,"Phetkasem Road, Nakhon Chai Si",Nakhon Pathom,Nakhon Pathom,THAILAND,73120,614100114,GMT+07:00 Asia/Bangkok,100.18,13.77
+Starbucks,16833-171974,Porto Chino,Company Owned,"Porto Chino, Rama 2 Road",Muang,Samut Sakhon,THAILAND,74000,848757856,GMT+07:00 Asia/Bangkok,100.29,13.57
+Starbucks,30941-103081,Hua Hin Market Village,Company Owned,"234/1, G/Fl Hua Hin Market Village, Phetkasem Road",Hua Hin,Prachuap Khiri Khan,THAILAND,77110,844387394,GMT+07:00 Asia/Bangkok,99.96,12.56
+Starbucks,33752-97121,Hua Hin,Company Owned,"73/1, Phetkasem Road, Blu Hua Hin",Hua Hin,Prachuap Khiri Khan,THAILAND,77110,844387370,GMT+07:00 Asia/Bangkok,99.96,12.57
+Starbucks,48612-263825,Central Nakhonsithammarat,Company Owned,"8,9/8 Moo 7, National Highway 403, Na Sa, Ao Nang Cliff Beach Plaza",Nakhonsithamarat,Nakhonsithamarat,THAILAND,80000,625934122,GMT+07:00 Asia/Bangkok,99.97,8.38
+Starbucks,32103-131326,Ao Nang Cliff Beach-Krabi,Company Owned,"Ao Nang Clif Beach, 328/4, Moo 2, Jungceylon Patong",Muang Krabi,Krabi,THAILAND,81000,844387424,GMT+07:00 Asia/Bangkok,98.82,8.03
+Starbucks,31987-123584,Jungceylon 2,Company Owned,"Unit 4125 Jungceylon Phuket, 181, Ratch-U-Thid",Kathu,Phuket,THAILAND,83150,844387419,GMT+07:00 Asia/Bangkok,98.3,7.89
+Starbucks,30773-96577,Jungceylon Patong,Company Owned,"181 unit 1102/2 Ground floor, Zone A1, Ratch-u-tid Road",Kathu,Phuket,THAILAND,83150,844387356,GMT+07:00 Asia/Bangkok,98.3,7.89
+Starbucks,32672-137965,Twilight of Bangla,Company Owned,"136/1, Thaweevong Road",Kathu,Phuket,THAILAND,83150,844387441,GMT+07:00 Asia/Bangkok,98.3,7.89
+Starbucks,32545-137245,La Flora Avenue - Patong - Phuket,Company Owned,"Unit 1-3, La Flora Avenue Patong, 1st Floor, No. 37, Taweewong road, Ban Thai Hotel",Katu,Phuket,THAILAND,83150,844387437,GMT+07:00 Asia/Bangkok,98.3,7.9
+Starbucks,33715-29356,Phuket,Company Owned,"94, Thaveewong Road, Central Phuket",Kratoo,Phuket,THAILAND,83150,844387328,GMT+07:00 Asia/Bangkok,98.29,7.89
+Starbucks,33750-96038,Central Phuket,Company Owned,"130, 1st Floor Central Phuket, No. 130, 1st Floor",Muang,Phuket,THAILAND,83000,844387360,GMT+07:00 Asia/Bangkok,98.37,7.89
+Starbucks,32293-135684,Kata Center-Karon-phuket,Company Owned,"Kata Center, No.4, Karon road,, Phuket Airport-Landside",Muang,Phuket,THAILAND,83100,844387430,GMT+07:00 Asia/Bangkok,98.3,7.83
+Starbucks,48536-263584,Phuket Airport-Landside,Company Owned,"Mai Khao, Thalang",Phuket,Phuket,THAILAND,83110,613896272,GMT+07:00 Asia/Bangkok,98.31,8.1
+Starbucks,23182-228364,Lotus Phuket,Company Owned,"104 Moo 5, Chaloemphrakiat Ro 9, Amphoe",Phuket,Phuket,THAILAND,83000,922464184,GMT+07:00 Asia/Bangkok,98.37,7.9
+Starbucks,49018-266307,Homepro Village Phuket Chalong,Company Owned,"61/10 Moo 10 Chalong, Muang",Phuket,Phuket,THAILAND,83130,613977916,GMT+07:00 Asia/Bangkok,98.34,7.83
+Starbucks,49620-270144,Banana Walk Phuket,Company Owned,"124/11 Taweewong road, Patong,Kathu",Phuket,Phuket,THAILAND,83150,614201415,GMT+07:00 Asia/Bangkok,98.29,7.89
+Starbucks,31878-124152,BigC Samui,Company Owned,"GCR 001 , BigC Suprecenter Samui,, Thaveerajbhakdee,, Central Suratthani",Koh Samui,Surat Thani,THAILAND,84320,844387416,GMT+07:00 Asia/Bangkok,100.04,9.54
+Starbucks,18124-181872,Central Suratthani,Company Owned,"unit no. 141, 1st Floor, Central Suratthani, 88 Moo 10",Muang,Surat Thani,THAILAND,84000,908808759,GMT+07:00 Asia/Bangkok,99.3,9.11
+Starbucks,21262-204773,Central Festival Samui,Company Owned,"209,209/1-209/2 Moo 2, Bophut, Koh Samui",Surat Thani,Surat Thani,THAILAND,84140,982514523,GMT+07:00 Asia/Bangkok,100.06,9.53
+Starbucks,18523-188468,Odean Fashion Mall,Company Owned,"Odean Fashion Mall  79/7, Thammanoonwithi road",Hatyai,Songkhla,THAILAND,90110,819381387,GMT+07:00 Asia/Bangkok,100.47,7
+Starbucks,20838-188467,Central Festival Hat Yai,Company Owned,"Central Had Yai, Karnjanavanit Road, Hat Yai",Songkhla,Songkhla,THAILAND,90110,922798164,GMT+07:00 Asia/Bangkok,100.48,6.99
+Starbucks,33754-97972,Tuk Com Pattaya,Company Owned,"8, Moo 10 South Pattaya Road",Banglamung,Chonburi,THAILAND,20150,844387374,GMT+07:00 Asia/Bangkok,100.88,12.92
+Starbucks,33761-143431,Royal Garden Pattaya,Company Owned,"218, Moo 10 Beach Road",Banglamung,Chonburi,THAILAND,20260,844387377,GMT+07:00 Asia/Bangkok,100.88,12.93
+Starbucks,33718-28447,Pattaya,Company Owned,"219/3, Yamamoto 13/1 Soi  Beach Road",Banglamung,Chonburi,THAILAND,20150,844387331,GMT+07:00 Asia/Bangkok,100.88,12.93
+Starbucks,1967-136510,Central Festival Pattaya,Company Owned,"Unit 156, Central Festival Pattaya Beach, 333/99, Moo 9",Banglamung,Chonburi,THAILAND,20150,844387451,GMT+07:00 Asia/Bangkok,100.88,12.93
+Starbucks,48482-263452,Phạm Ngọc Thạch,Licensed,"2 Phạm Ngọc Thạch, Quận Đống Đa",Hà Nội,Hanoi,VIETNAM,0,04 3637 4374,GMT+000000 Asia/Saigon,105.83,21.01
+Starbucks,24015-232287,Press Club,Licensed,"59A Lý Thái Tổ, Quận Hoàn Kiếm, #123 Tầng trệt Tòa Nhà IPH Indochine Plaza Hà Nội",Hà Nội,Hanoi,VIETNAM,70000,04 3936 9017,GMT+000000 Asia/Saigon,105.86,21.03
+Starbucks,24016-230012,IPH,Licensed,"241 Xuân Thủy, Quận Cầu Giấy",Hà Nội,Hanoi,VIETNAM,70000,04 3795 4278,GMT+000000 Asia/Saigon,105.78,21.04
+Starbucks,47910-260386,The Garden,Licensed,"Tầng 1, TTTM The Garden, khu đô thị The Manor, Mễ Trì, Mỹ Đình",Hà Nội,Hanoi,VIETNAM,70000,04 3395 3333,GMT+000000 Asia/Saigon,105.78,21.01
+Starbucks,24003-228944,Lan Viên,Licensed,"32 Hàng Bài, Quận Hoàn Kiếm",Hà Nội,Hanoi,VIETNAM,70000,04 3936 8407,GMT+000000 Asia/Saigon,105.85,21.02
+Starbucks,24014-231244,Bà Triệu,Licensed,"314 Bà Triệu, Quận Hai Bà Trưng",Hà Nội,Hanoi,VIETNAM,70000,04 3978 1817,GMT+000000 Asia/Saigon,105.85,21.01
+Starbucks,49436-269127,The Vista,Licensed,"628 Xa Lo Ha Noi Highway, Dist 2, Ground Floor, The Oxygen Shopping Mall",Ho Chi Minh,Ho Chi Minh,VIETNAM,70000,08 6281 4546,GMT+000000 Asia/Saigon,106.75,10.8
+Starbucks,18663-190626,President Place,Licensed,"93 Nguyễn Du, Quận 1, Tầng trệt Trung Tâm Thương Mại Pandora City",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3822 5891,GMT+000000 Asia/Saigon,106.7,10.78
+Starbucks,24011-230014,Pandora,Licensed,"1/1 Trường Chinh, Quận Tân Phú",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3812 6830,GMT+000000 Asia/Saigon,106.63,10.81
+Starbucks,23925-226964,Đề Thám,Licensed,"191 - 193 Đề Thám, Quận 1",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3838 6455,GMT+000000 Asia/Saigon,106.69,10.77
+Starbucks,48282-262438,Nguyễn Văn Trỗi,Licensed,"66 Nguyễn Văn Trỗi, Quận Phú Nhuận, Tầng trệt, #01-28a,b Trung Tâm Thương Mại Vivo City",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,0,08 3842 2171,GMT+000000 Asia/Saigon,106.68,10.79
+Starbucks,25378-234124,VivoCity,Licensed,"1058 Nguyễn Văn Linh, Quận 7",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3771 4975,GMT+000000 Asia/Saigon,106.7,10.73
+Starbucks,29695-254869,Lakai,Licensed,"98-126 Nguyễn Tri Phương, Quận 5",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3924 1251,GMT+000000 Asia/Saigon,106.67,10.75
+Starbucks,48731-264926,Thành Phố Hồ Chí Minh,Licensed,"Sân bay Tân Sơn Nhất, 45 Trường Sơn, Tân Bình, Phòng A2, tầng trệt, Khu vực thương mại Nhà giữ xe Ga Quốc Nội, Phòng 1A Tòa Nhà Kumho Asiana Plaza Saigon",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 6681 6463,GMT+000000 Asia/Saigon,106.66,10.81
+Starbucks,25865-242710,Kumho,Licensed,"39 Lê Duẩn, Quận 1",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3823 4990,GMT+000000 Asia/Saigon,106.7,10.78
+Starbucks,24009-223886,Phan Xich Long,Licensed,"214 -216 Phan Xích Long, Quận Phú Nhuận",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3517 6461,GMT+000000 Asia/Saigon,106.69,10.8
+Starbucks,25346-240592,Thảo Điền,Licensed,"21 Thảo Điền, Quận 2",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3744 2040,GMT+000000 Asia/Saigon,106.74,10.8
+Starbucks,29047-252265,Nguyễn Huệ,Licensed,"99 Nguyễn Huệ, Quận 1",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3821 0105,GMT+000000 Asia/Saigon,106.7,10.77
+Starbucks,27767-248666,SSG,Licensed,"561A Điện Biên Phủ, Quận Bình Thạnh, Khách sạn New World",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3512 0585,GMT+000000 Asia/Saigon,106.72,10.8
+Starbucks,18687-193924,New World,Licensed,"76 Lê Lai, Quận 1, Góc đường Phạm Hồng Thái và Nguyễn Thị Nghĩa.",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3823 7952,GMT+000000 Asia/Saigon,106.69,10.77
+Starbucks,27082-246744,Emart,Licensed,"168 Phan Văn Trị, Quận Gò Vấp, Khách sạn Rex",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3588 0146,GMT+000000 Asia/Saigon,106.69,10.82
+Starbucks,21401-212072,Rex,Licensed,"141 Nguyễn Huệ, Quận 1, Góc đường Pasteur và Lê Thánh Tôn",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 3824 4668,GMT+000000 Asia/Saigon,106.7,10.78
+Starbucks,24010-226985,Panorama,Licensed,"SN-44, Tòa Nhà Panorama, 208 Trần Văn Trà, Quận 7",Thành Phố Hồ Chí Minh,Ho Chi Minh,VIETNAM,70000,08 5413 8292,GMT+000000 Asia/Saigon,106.71,10.72
+Starbucks,31342-106289,Warisan Square KK,Licensed,"Jalan Fuad Stephen, Lot No. 8, Ground & 1st Floor Block C",Kota Kinabalu,Sabah,MALAYSIA,88000,088-447062,GMT+000000 Asia/Kuching,116.07,5.98
+Starbucks,32542-132944,One Borneo 1,Licensed,"Jalan Sulaman, G-832 & F-832 - Ground & First Floor",Kota Kinabalu,Sabah,MALAYSIA,88000,088-447189,GMT+000000 Asia/Kuching,116.13,6.04
+Starbucks,31754-109644,City Mall KK,Licensed,"Jalan Lintas Luyang, Lot No. 4, Ground Floor",Kota Kinabalu,Sabah,MALAYSIA,88300,088-484275,GMT+000000 Asia/Kuching,116.1,5.96
+Starbucks,31341-106381,Centrepoint KK,Licensed,"No. 1, Jalan Centre Point, Lot No. P37, 4th Floor",Kota Kinabalu,Sabah,MALAYSIA,88000,088-258180,GMT+000000 Asia/Kuching,116.07,5.97
+Starbucks,32698-135946,KKIA,Licensed,"Kota Kinabalu International Airport, L3A01, Level 3, Airside, Terminal 1",Kota Kinabalu,Sabah,MALAYSIA,88740,088-413814,GMT+000000 Asia/Kuching,116.05,5.93
+Starbucks,18213-188744,Suria Sabah,Licensed,"Suria Sabah Shopping Mall, G-2 & G-69, Ground Floor",Kota Kinabalu,Sabah,MALAYSIA,88000,088-486260,GMT+000000 Asia/Kuching,116.08,5.99
+Starbucks,32543-169666,1 Borneo -2F Enter Zone,Licensed,"Jalan Sulaman, No. G-301, Ground Floor",Kota Kinabalu,Sabah,MALAYSIA,88000,088-447329,GMT+000000 Asia/Kuching,116.13,6.04
+Starbucks,1923-137105,The Zone,Licensed,"88 Jalan Ibrahim Sutan, Stulang Laut, Level 1",Johor Bahru,Johor,MALAYSIA,80300,07-2241702,GMT+08:00 Asia/Kuala_Lumpur,103.78,1.47
+Starbucks,33904-13360,Johor Bahru City Square,Licensed,"No 106 & 108, Jalan Wong Ah Fook, Lot J1-06, Level 1",Johor Bahru,Johor,MALAYSIA,80000,07-2760267,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46
+Starbucks,30897-102820,AEON Tebrau,Licensed,"No.1 Jl Desa Tebrau, Taman Desa Tebrau, Lot G17",Johor Bahru,Johor,MALAYSIA,81100,07-3556049,GMT+08:00 Asia/Kuala_Lumpur,103.8,1.55
+Starbucks,1915-139106,Bukit Indah,Licensed,"No. 8, Jalan Indah 15/2, Bukit Indah, Lot G08, Ground Floor",Johor Bahru,Johor,MALAYSIA,81200,07-2370408,GMT+08:00 Asia/Kuala_Lumpur,103.66,1.48
+Starbucks,15577-163164,JB Sentral,Licensed,"Jalan Jim Quee, Lot No. 1&2, 3rd Floor, JB Sentral",Johor Bahru,Johor,MALAYSIA,80300,07-2212453,GMT+08:00 Asia/Kuala_Lumpur,103.76,1.46
+Starbucks,16340-164364,Johor Premium Outlets,Licensed,"Jalan Premium Outlets, Indahputra, Lot 500",Kulaijaya,Johor,MALAYSIA,81000,07-5909143,GMT+08:00 Asia/Kuala_Lumpur,103.75,1.46
+Starbucks,26445-240449,Alor Setar DT,Licensed,"Jalan Alor Mengkudu, PT13875,13876,13877,78 & part of PT6189",Alor Setar,Kedah,MALAYSIA,5400,04733 8094,GMT+08:00 Asia/Kuala_Lumpur,100.38,6.1
+Starbucks,17250-180648,Cenang Mall,Licensed,"Lot 2605 Jalan Pantai Cenang, Mukim Keda, Lot GF1a, GF1b & GF1c CenangMallLangkawi",Langkawi,Kedah,MALAYSIA,7000,04-9551540,GMT+08:00 Asia/Kuala_Lumpur,99.73,6.29
+Starbucks,31809-117007,Langkawi International Airport,Licensed,"Langkawi International Airport, Lot No. C2, Public Concourse",Langkawi,Kedah,MALAYSIA,7000,04-9557780,GMT+08:00 Asia/Kuala_Lumpur,99.73,6.34
+Starbucks,31076-104740,Langkawi Jetty Point,Licensed,"Jetty Kuah, Lot 15 & 16, Zone 2",Langkawi,Kedah,MALAYSIA,7000,04-9665309,GMT+08:00 Asia/Kuala_Lumpur,99.85,6.31
+Starbucks,32071-123025,Lagenda Village Mall,Licensed,"Jalan Lagenda 1, Lagenda Heights, Lot G-9, G-15, G-16, Ground Floor",Sungai Petani,Kedah,MALAYSIA,8000,04-4229645,GMT+08:00 Asia/Kuala_Lumpur,100.5,5.66
+Starbucks,16226-169665,Jusco Bandaraya Melaka,Licensed,"No. 2, Jalan Lagenda, Taman 1-Lagenda, Lot G89 & G90",Melaka,Wilayah Persekutuan,MALAYSIA,75400,06-2818769,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.21
+Starbucks,31462-107895,Dataran Pahlawan,Licensed,"Jalan Merdeka, Bandar Hilir, Lot BN-017, BN-030 & BN-031",Melaka,Wilayah Persekutuan,MALAYSIA,75000,06-2815630,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.19
+Starbucks,33958-98092,Mahkota Parade,Licensed,"No. 1, Jalan Merdeka, Lot No. G17/EG2",Melaka,Wilayah Persekutuan,MALAYSIA,75000,06282 0721,GMT+08:00 Asia/Kuala_Lumpur,102.25,2.19
+Starbucks,15524-193325,Melaka Raya,Licensed,"No. 161 Jalan Merdeka, Taman Melaka Raya",Melaka,Wilayah Persekutuan,MALAYSIA,75000,06-2814628,GMT+08:00 Asia/Kuala_Lumpur,102.26,2.19
+Starbucks,30702-101569,Jusco Seremban 2,Licensed,"No. 112, Persiaran S2 B1, Seremban 2, Lot G49 & 50",Seremban,Negeri Sembilan,MALAYSIA,70300,06-6015526,GMT+08:00 Asia/Kuala_Lumpur,101.91,2.7
+Starbucks,32541-135925,Cameron Highlands,Licensed,"Lot 22 & 23, Jalan Besar, Tanah Rata",Cameron Highlands,Pahang,MALAYSIA,39007,05-4915648,GMT+08:00 Asia/Kuala_Lumpur,101.38,4.47
+Starbucks,33917-39460,Genting Highlands,Licensed,"First World Hotel, Level T1, Lot F/L 1.4",Genting Highland,Pahang,MALAYSIA,69000,03-61013754,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42
+Starbucks,32480-225566,East Coast Mall (Closed),Licensed,"East Coast Mall, No. GF-06, Alfresco Ground Floor",Kuantan,Pahang,MALAYSIA,25200,09-5609209,GMT+08:00 Asia/Kuala_Lumpur,103.33,3.82
+Starbucks,33949-95052,Megamall Kuantan,Licensed,"Jalan Tun Ismail, Sri Dagangan, G-15, Ground floor",Kuantan,Pahang,MALAYSIA,25000,09-5134489,GMT+08:00 Asia/Kuala_Lumpur,103.33,3.81
+Starbucks,17884-184365,Tanjong Tokong D/T,Licensed,"4-G, Jalan Pantai Molek, Tanjung Tokong",Penang,Pulau Pinang,MALAYSIA,10470,04-8906008,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.45
+Starbucks,31408-107042,Queensbay Mall,Licensed,"100, Persiaran Bayan Indah, GF-36, Ground Floor",Bayan Lepas,Pulau Pinang,MALAYSIA,11900,04-6411645,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.33
+Starbucks,31428-196124,Borders Queensbay Mall,Licensed,"100, Persiaran Bayan Indah, Lot 1F-91 & 92 QueensBay Mall",Bayan Lepas,Pulau Pinang,MALAYSIA,11900,04-6411148,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.34
+Starbucks,33946-94857,Genting 3,Licensed,"Genting Highlands Hotel, Lot H/LG 6.00, Lower Ground Floor",Genting Highland,Pulau Pinang,MALAYSIA,69000,03-61011858,GMT+08:00 Asia/Kuala_Lumpur,101.79,3.42
+Starbucks,33919-28667,Prangin Mall,Licensed,"Jalan Dr  Lim Chwee Leong, No. 33-G-1A",Komtar,Pulau Pinang,MALAYSIA,10100,04-2611858,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.25
+Starbucks,15049-157222,Straits Quay,Licensed,"Jalan Seri Tanjung Pinang Lot 3A-G-15, Unit No 3A-G-15, Block A, Ground Floor",Penang,Pulau Pinang,MALAYSIA,10470,04-8901076,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.46
+Starbucks,32115-124324,New World Park,Licensed,"No. 102, Jalan Burma, Lot K-1, Ground Floor",Penang,Pulau Pinang,MALAYSIA,10050,04-2274284,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.42
+Starbucks,12683-155244,1st Avenue,Licensed,"182, Jalan Magazine, Lot G-09 & G-10, Ground Floor",Penang,Pulau Pinang,MALAYSIA,10300,04-2633202,GMT+08:00 Asia/Kuala_Lumpur,100.33,5.41
+Starbucks,30674-100081,E- Gate Penang,Licensed,"Lebuh Tengku Kudin 2, Gelugor, Lot 1-01-17",Penang,Pulau Pinang,MALAYSIA,11700,04-6597502,GMT+08:00 Asia/Kuala_Lumpur,100.32,5.38
+Starbucks,33937-93418,Gurney Plaza,Licensed,"Plaza Gurney, Persiaran Gurney, Unit 170-G-39",Penang,Pulau Pinang,MALAYSIA,10250,04-2268858,GMT+08:00 Asia/Kuala_Lumpur,100.31,5.44
+Starbucks,31797-114990,Sunway Carnival,Licensed,"3068, Jalan Todak Pusat bandar Seberang, UG-27, Upper Ground Floor",Penang,Pulau Pinang,MALAYSIA,13700,04-3982885,GMT+08:00 Asia/Kuala_Lumpur,100.4,5.4
+Starbucks,18368-190504,Penang International Airport,Licensed,"Domestic Airside Penang International, Airport Lot L2A FB08. Bayan Lepas",Penang,Pulau Pinang,MALAYSIA,11900,04-6446818,GMT+08:00 Asia/Kuala_Lumpur,100.27,5.29
+Starbucks,31274-105907,Juru Auto-City,Licensed,"Highway Auto-City Prai Industrial Estate, 1821-G1",Perai,Pulau Pinang,MALAYSIA,13600,04-5020362,GMT+08:00 Asia/Kuala_Lumpur,100.43,5.34
+Starbucks,16720-174806,Jusco Ipoh Station 18,Licensed,"No. 2, Susuran Stesen 18, Station 18, Lot G66, Ground Floor",Ipoh,Perak,MALAYSIA,31650,05-3217843,GMT+08:00 Asia/Kuala_Lumpur,101.09,4.6
+Starbucks,27915-249188,AEON Klebang,Licensed,"Lot G.05, Ground Floor, Aeon Mall Ipoh Klebang",Ipoh,Perak,MALAYSIA,30010,05291 4366,GMT+08:00 Asia/Kuala_Lumpur,101.1,4.64
+Starbucks,31111-105258,Ipoh Parade,Licensed,"105, Jalan Sultan Abdul Jalil, Lot G25, Ground Floor",Ipoh,Perak,MALAYSIA,30450,05-2412180,GMT+08:00 Asia/Kuala_Lumpur,101.09,4.6
+Starbucks,18283-189684,AEON Seri Manjung,Licensed,"Pusat Perniagaan Manjung Point 3, Lot G65",Seri Manjung,Perak,MALAYSIA,32040,05-6870143,GMT+08:00 Asia/Kuala_Lumpur,100.67,4.22
+Starbucks,32703-135924,Taiping Sentral,Licensed,"No. 36, Jalan Istana Larut, Lot G-09 & G-10",Taiping,Perak,MALAYSIA,34000,05-8054179,GMT+08:00 Asia/Kuala_Lumpur,100.74,4.86
+Starbucks,17883-176424,Plaza Merdeka,Licensed,"Plaza Merdeka,88 Jalan Pearl, Lot G-46, Ground Floor",Kuching,Sarawak,MALAYSIA,93000,082-239785,GMT+08:00 Asia/Kuala_Lumpur,110.34,1.56
+Starbucks,32256-108271,Starbucks The Spring,Licensed,"Lot 7196, Section 64, Kuching Town Land, Lot G10 First Floor",Kuching,Sarawak,MALAYSIA,93350,082-247687,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.54
+Starbucks,3082-137817,Precint 88,Licensed,"Precint 88, Jalan Song, Unit G1 & F1, Ground & First Floor",Kuching,Sarawak,MALAYSIA,93350,082-367913,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.52
+Starbucks,31798-111244,Kuching International Airport,Licensed,"Jalan Lapangan Terbang, Lot L2L 08 & 09, Level 3 Public Concours",Kuching,Sarawak,MALAYSIA,93722,082-625919,GMT+08:00 Asia/Kuala_Lumpur,110.34,1.49
+Starbucks,1899-139886,Miri Airport,Licensed,"Lot No GL14, Public Concourse, Ground Level",Miri,Sarawak,MALAYSIA,98000,085-616450,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.33
+Starbucks,32762-137815,Bintang Plaza Miri,Licensed,"Jalan Bintang, Lot G47 & G39A, Ground Floor",Miri,Sarawak,MALAYSIA,98000,085-435650,GMT+08:00 Asia/Kuala_Lumpur,113.99,4.4
+Starbucks,26909-228505,Vivacity Megamall,Licensed,"NA, Na",NA,Sarawak,MALAYSIA,NA,82263673,GMT+08:00 Asia/Kuala_Lumpur,110.36,1.53
+Starbucks,31426-107047,Jusco Cheras Selatan,Licensed,"Lebuh Tun Hussein Onn, Lot G31",Balakong,Selangor,MALAYSIA,43200,03-90816795,GMT+08:00 Asia/Kuala_Lumpur,101.76,3.03
+Starbucks,33916-30520,Jusco Maluri,Licensed,"Jalan Jejaka, Lot G12, Ground Floor",Cheras,Wilayah Persekutuan,MALAYSIA,55100,03-92026376,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.13
+Starbucks,31233-244104,Pantai Medical Centre (Closed),Licensed,"8, Jalan Bukit Pantai, Part of Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59100,03-22015008,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.12
+Starbucks,33928-80641,Plaza Berjaya,Licensed,"No. 12, Jalan Imbi, Kiosk 1, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21102858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14
+Starbucks,32169-129284,Parkson Sungei Wang Plaza,Licensed,"No. 769, Jalan Bukit Bintang, C27 Concourse Level",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21101858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,15422-161324,Desa Sri Hartamas,Licensed,"No. 22, Jalan 25/70A, Desa Sri Hartamas, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59400,03-62115009,GMT+08:00 Asia/Kuala_Lumpur,101.65,3.16
+Starbucks,33938-93481,Berjaya Times Square 1,Licensed,"Berjaya Times Square, No.1, Jalan Imbi, Lot No. G-09A, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21100221,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14
+Starbucks,16850-176227,TTDI,Licensed,"No. 20-G, Jalan Tun Mohd Fuad 1, A & B, Taman Tun Dr Ismail",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,60000,03-77334557,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.14
+Starbucks,33927-76364,Great Eastern Mall,Licensed,"No. 303, Jalan Ampang, Lot 13 & 14, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,03-42576842,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.16
+Starbucks,33945-94400,33945,Licensed,"No 7 Jalan 1/77, Off Jalan Bukit Bintang, G-28, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21101183,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14
+Starbucks,18504-191664,Menara Olympia,Licensed,"No. 8, Jalan Raja Chulan, Level 1",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50200,03-20221185,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15
+Starbucks,32540-136426,Menara Hap Seng,Licensed,"Jalan P. Ramlee, Suite G-09, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50250,03-20222858,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,33959-98940,Plaza Damas,Licensed,"Jalan Sri Hartamas 1, Sri Hartamas, Lot P7-A, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50480,328569024,GMT+08:00 Asia/Kuala_Lumpur,101.66,3.16
+Starbucks,9168-152125,Gleneagles,Licensed,"No. 286, Jalan Ampang, Ground Floor (Garden Area)",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,03-42665689,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.16
+Starbucks,33962-99772,Kuala Lumpur,Licensed,"Kuala Lumpur Convention Centre, Lot C09, Concourse Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50088,03-21812213,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,32113-216304,Capital Squar,Licensed,"No. 8, Jalan Munshi Abdullah, Lot G-2, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50100,03-22027958,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15
+Starbucks,33941-93902,IKANO Power Center,Licensed,"No. 2, Jalan PJU 7/2, Mutiara Damasara, Unit G22, Ground Floor",Kuala Lumpur,Selangor,MALAYSIA,47800,03-77106842,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16
+Starbucks,23674-218085,Menara TA One,Licensed,"Ground Floor, Menara TA One, 22 Jln P Ramlee",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50250,017603 6211,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16
+Starbucks,33961-98564,Berjaya Time Square,Licensed,"No 1, Jalan Imbi, Lot No. 01-01-28, 1st Avenue, 1st Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21100386,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.14
+Starbucks,31519-108182,Bangsar Village 2,Licensed,"No. 2, Jalan Telawi Satu, Bangsar Baru, Lot No. 2F-11 & K1, 2nd Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59100,03-22015338,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.13
+Starbucks,33934-91182,AEON Alpha Angle,Licensed,"Jalan R1, Bandar Baru Wangsa Maju",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,53300,03-41492842,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.2
+Starbucks,14975-156707,VIVA Home,Licensed,"No. 85, Jalan Loke Yew, LG-28A, Lower Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55200,03-92027808,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.13
+Starbucks,33936-91763,Menara Maybank,Licensed,"No. 100, Jalan Tun Perak, Foyer Area, 1st Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50050,03-20312858,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15
+Starbucks,33908-13607,Plaza Mont' Kiara,Licensed,"No. 2, Jalan 1/70C, Mont' Kiara, Lot Suite B, OG-01-02",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50480,03-62112169,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.14
+Starbucks,33905-12648,Mid Valley Megamall,Licensed,"Mid Valley City, Lot G-100, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,58000,03-22011223,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12
+Starbucks,33907-237935,Wisma UOA Damansara,Licensed,"Blok C-C1-C2, Level 1, Jalan Beringin, Pusat Bandar Damansara",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50490,03-20110959,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.11
+Starbucks,17252-180646,Wisma HB,Licensed,"Megan Avenue II, 12, Jalan Yap Kwan Seng, A-0-1, Ground Floor, Block A",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,03-21813063,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16
+Starbucks,31955-124344,Pavilion 2,Licensed,"168, Jalan Bukit Bintang, Lot No. 6.02.00, Level 6",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21100258,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,32160-126464,Borders the Gardens,Licensed,"The  Gardens Mid Valley, Lot T-216-B, 3rd Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59200,03-22013778,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12
+Starbucks,33911-22084,The Weld,Licensed,"No. 76, Jalan Raja Chulan, Lot G1",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50200,03-20220262,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,33921-212504,The Mall,Licensed,"No. 100, Jalan Putra, No. G40",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50350,03-40502738,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.17
+Starbucks,31956-114989,Pavillion Kuala Lumpur,Licensed,"168, Jalan Bukit Bintang, Lot C 3.08.00 & C3.09.00, Level 3",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21100378,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,33944-94464,AEON Kepong,Licensed,"Jalan Kepong, Lot G36",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,52100,03-62423828,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.21
+Starbucks,33960-98399,Cheras Leisure Mal,Licensed,"Jalan Manis 6, Taman Segar, Lot L2-25, Level 2",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,56100,03-91336191,GMT+08:00 Asia/Kuala_Lumpur,101.74,3.09
+Starbucks,31753-110087,Pearl Point,Licensed,"Batu 5, Jalan Kelang Lama, Lot No. 1.0.26, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,58000,03-79722838,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.09
+Starbucks,18780-195207,Scott Garden,Licensed,"Jalan Klang Lama, S-G-09",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,58000,03-79800142,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.1
+Starbucks,33912-12650,Kota Raya,Licensed,"Kota Raya Complex Jalan Tun Tan Cheng, Lock, Kiosk G1 Sidewalk Cafe",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50450,03-20220852,GMT+08:00 Asia/Kuala_Lumpur,101.7,3.15
+Starbucks,1910-139105,Aeon AU2,Licensed,"No. 3 Jalan 37/56 Taman setiawangsa, AU2 Bandar Baru Ampang Lot G48, AEON AU2",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,54200,03-42661885,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.18
+Starbucks,18713-194405,Bukit Bintang,Licensed,"Jalan Bukit Bintang, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,55100,03-21410199,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.15
+Starbucks,33952-96324,Bangsar Village 1,Licensed,"Jalan Telawi 1, Bangsar Baru, Lot G7, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59100,03-22013935,GMT+08:00 Asia/Kuala_Lumpur,101.67,3.13
+Starbucks,31981-114992,The Gardens Mid Valley,Licensed,"No. 1, Medan Syed Putra Utara, Lot S-226B, Second Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,59200,032283 3744,GMT+08:00 Asia/Kuala_Lumpur,101.68,3.12
+Starbucks,33924-75120,KL Sentral,Licensed,"KL Sentral, Arrival Hall, Unit 5",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50470,03-22746842,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13
+Starbucks,33940-93879,KLCC 2,Licensed,"Kuala Lumpur City Centre, Lot 327 & K33B, 3rd Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,50088,03-21813037,GMT+08:00 Asia/Kuala_Lumpur,101.71,3.16
+Starbucks,7028-254567,Sooka Sentral (Closed),Licensed,"Jalan Stesen Sentral 5, G2B, Ground Floor",Kuala Lumpur Sentral,Wilayah Persekutuan,MALAYSIA,50470,03-27807188,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.13
+Starbucks,15051-157221,Ampang Point,Licensed,"Jalan Mamanda 3, Lot G20A, Ground Floor",Ampang,Selangor,MALAYSIA,68000,03-42653828,GMT+08:00 Asia/Kuala_Lumpur,101.75,3.16
+Starbucks,17454-177446,Prima 5 D/T,Licensed,"Block  3505, Jalan Teknokrat 5, Prima 5C",Cyberjaya,Selangor,MALAYSIA,63000,03-83189395,GMT+08:00 Asia/Kuala_Lumpur,101.66,2.92
+Starbucks,17444-158465,Shaftsbury,Licensed,"Cyber 6, Persiaran Multimedia, Lot 2350",Cyberjaya,Selangor,MALAYSIA,63000,03-83223973,GMT+08:00 Asia/Kuala_Lumpur,101.65,2.9
+Starbucks,33935-190524,Bukit Raja (Closed),Licensed,"Persiaran Bukit Raja 2,Bandar Baru Klang, Lot G51, Ground Floor",Klang,Selangor,MALAYSIA,41150,03-33432842,GMT+08:00 Asia/Kuala_Lumpur,101.47,3.06
+Starbucks,32114-114994,AEON Bukit Tinggi,Licensed,"No1 Persiaran Batu Nilam 1/KS6, bandar, Aeon Bukit Tinggi Shopping Centre",Klang,Selangor,MALAYSIA,41200,033318 1264,GMT+08:00 Asia/Kuala_Lumpur,101.44,2.99
+Starbucks,31637-110064,Centro Klang,Licensed,"No. 8, Jalan Batu 3, Lot G135, Ground Floor",Klang,Selangor,MALAYSIA,41300,03-33587305,GMT+08:00 Asia/Kuala_Lumpur,101.46,3.05
+Starbucks,30776-101271,Centrepoint BU,Licensed,"Lebuh Bandar Utama, Bandar Utama, Lot G109 & G110, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47800,03-77313861,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.14
+Starbucks,16970-162284,Paradigm Mall,Licensed,"No. 1, Jalan SS7/26A, Kelana Jaya, Lot No. GB 01A & GB 16, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47301,03-78867598,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.11
+Starbucks,24625-238385,Sunway Pinnacle,Licensed,"Mezzanine Floor, The Pinnacle, Persiaran, Bandar Sunway",Petaling Jaya,Selangor,MALAYSIA,46150,032035 5869,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.07
+Starbucks,33955-97816,The Curve,Licensed,"Mutiara Damansara, G88, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47800,03-77315662,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16
+Starbucks,31557-108240,Uptown 2,Licensed,"No.51G & 51A, Jalan SS21/37",Petaling Jaya,Selangor,MALAYSIA,47400,03-77314665,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13
+Starbucks,33957-97874,Sunway Medical Center,Licensed,"No 5, Jalan Lagoon Selatan, Bandar Sunway, Lobby, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,46150,03-56323876,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07
+Starbucks,1916-136272,Tropicana Mall,Licensed,"No. 3, Jalan SS20/27, Lot G-01, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47400,03-77318667,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.13
+Starbucks,33906-16256,Sunway Pyramid,Licensed,"No. 3 Jalan PJS 11/15, Bandar Sunway, Lot G1.12 & 1.13, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,46150,03-56111967,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.07
+Starbucks,32596-136403,SS2,Licensed,"No. 3, SS2/67, Taman Sea, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47300,03-78656828,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.12
+Starbucks,32072-123084,Kota Damansara,Licensed,"Jalan PJU 5/11 Dataran Sunway, No.1 Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47810,03-61513226,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.15
+Starbucks,33942-93901,Bandar Utama 2,Licensed,"Lebuh Bandar Utama, Lot F352, 1st Floor",Petaling Jaya,Selangor,MALAYSIA,47800,03-77322568,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.21
+Starbucks,32282-124325,Jaya 1,Licensed,"Palm Square, Jaya One Section 13, Unit E-81-G Block M, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,46300,03-73917828,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.12
+Starbucks,32291-135364,3 Two Square,Licensed,"No. 2, Jalan 19/1, C-17-01, Dataran 32",Petaling Jaya,Selangor,MALAYSIA,46300,03-79607127,GMT+08:00 Asia/Kuala_Lumpur,101.64,3.11
+Starbucks,33951-95923,Damansara Uptown 1,Licensed,"110G, Jalan SS 21//39, Damansara Utama",Petaling Jaya,Selangor,MALAYSIA,47400,03-77318662,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.13
+Starbucks,17238-162265,Bandar Utama,Licensed,"Lebuh Bandar Utama, Bandar Utama, Lot G139A, Ground Floor",Petaling Jaya,Selangor,MALAYSIA,47800,03-77327846,GMT+08:00 Asia/Kuala_Lumpur,101.62,3.15
+Starbucks,31982-114991,Sunway Pyramid 2,Licensed,"No. 1, Jalan PJS 11/15, Bandar Sunway, Lot LG1.110, Lower Ground",Petaling Jaya,Selangor,MALAYSIA,46150,03-56310613,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07
+Starbucks,33947-94257,Giant Kelana Jaya,Licensed,"No. 33, Jalan SS6/12, Kelana Jaya, Lot G29 & G30",Petaling Jaya,Selangor,MALAYSIA,47301,03-78806842,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.1
+Starbucks,30792-101570,"Borders, The Curve",Licensed,"Jalan PJU 7/3, Mutiara Damansara, Lot G16, Ground Floor, The Walk",Petaling Jaya,Selangor,MALAYSIA,47800,03-77318665,GMT+08:00 Asia/Kuala_Lumpur,101.61,3.16
+Starbucks,2121-135927,Setia Walk,Licensed,"Persiaran Wawasan, Pusat Bandar Puchong, G-01G, No. G-2, Jalan Puteri 7/13A Bandar Puteri",Puchong,Selangor,MALAYSIA,47160,03-58853110,GMT+08:00 Asia/Kuala_Lumpur,101.63,3.04
+Starbucks,33913-22102,IOI Mall,Licensed,"Batu 9, Bandar Puchong Jaya, Lot G00, Front Entrance, Ground Floor",Puchong,Selangor,MALAYSIA,47100,03-80821370,GMT+08:00 Asia/Kuala_Lumpur,101.62,3
+Starbucks,16719-174805,Jusco Rawang,Licensed,"No. 1, Persiaran Anggun, Taman Anggun, Lot G62, Ground Floor",Rawang,Selangor,MALAYSIA,48000,03-60910927,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.34
+Starbucks,18241-173545,Petronas PLUS D/T,Licensed,"KM305Plus Arah Selatan, Mukim Kajang, Stesen Minyak Petronas",Selangor,Selangor,MALAYSIA,43300,03-89382297,GMT+08:00 Asia/Kuala_Lumpur,101.73,3.01
+Starbucks,21229-210286,KLIA Contact Pier,Licensed,"Contact Pier, KL International Airport, Sepang",Selangor,Selangor,MALAYSIA,64000,012644 8660,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.75
+Starbucks,6013-242485,LCCT,Licensed,"KL International Airport, Lot LCPC 18, Public Concourse",Sepang,Selangor,MALAYSIA,64000,03-87871066,GMT+08:00 Asia/Kuala_Lumpur,101.69,2.74
+Starbucks,33954-145784,KLIA,Licensed,"Lot 17(A)-(B) & 18 Satellite Building, Mezzanine level",Sepang,Selangor,MALAYSIA,64000,03-87873509,GMT+08:00 Asia/Kuala_Lumpur,101.71,2.75
+Starbucks,3059-136398,The Mines,Licensed,"Jalan Dulang, Mines Resort City, L2-08(P), Level 2",Seri Kembangan,Selangor,MALAYSIA,43300,03-89586858,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.03
+Starbucks,16621-173245,KOTA KEMUNING,Licensed,"Jalan Anggerik Vanila, Kota Kemuning, Seksyen 31, part of lot PT128300",Shad Alam,Selangor,MALAYSIA,40460,035110 0642,GMT+08:00 Asia/Kuala_Lumpur,101.55,2.99
+Starbucks,3075-136445,Setia Alam D/T,Licensed,"Lot No.4, Persiaran Setia Impain, Bandar Setia Alam, Seksyen U 13",Shah Alam,Selangor,MALAYSIA,40170,03-33414623,GMT+08:00 Asia/Kuala_Lumpur,101.5,3.13
+Starbucks,17171-156708,Setia City Mall,Licensed,"No.7, Persiaran Setia Dagang, Seksyen U1, Lot LG-33",Shah Alam,Selangor,MALAYSIA,40170,03-33456195,GMT+08:00 Asia/Kuala_Lumpur,101.46,3.11
+Starbucks,33956-95094,Plaza Shah Alam,Licensed,"No. 2 Jalan  Tengku Ampuan Zabedah E9/E, Seksyen9,Lot EL2,Level 2,Plaza Shah Alam",Shah Alam,Selangor,MALAYSIA,40100,035510 1518,GMT+08:00 Asia/Kuala_Lumpur,101.52,3.08
+Starbucks,15874-166185,Subang Parade,Licensed,"No. 5, Jalan SS16/1, Lot G15J, Ground Floor",Subang Jaya,Selangor,MALAYSIA,47500,03-56121566,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.08
+Starbucks,30879-101157,SS15. Subang Jaya,Licensed,"No.79, Jalan SS15/8A, Ground Floor",Subang Jaya,Selangor,MALAYSIA,47500,03-56115596,GMT+08:00 Asia/Kuala_Lumpur,101.59,3.07
+Starbucks,33933-85140,Taipan,Licensed,"No. 41, Jalan USJ 10/1D, UEP, Ground Floor",Subang Jaya,Selangor,MALAYSIA,47620,03-80113569,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.05
+Starbucks,1922-139704,Subang Skypark,Licensed,"Jalan Lapangan Terbang, Lot G12 & G13, Terminal 3",Subang Jaya,Selangor,MALAYSIA,47200,03-78469143,GMT+08:00 Asia/Kuala_Lumpur,101.55,3.14
+Starbucks,3086-139708,Empire Gallery Subang,Licensed,"Jalan SS16/1, G28",Subang Jaya,Selangor,MALAYSIA,47500,03-56313302,GMT+08:00 Asia/Kuala_Lumpur,101.58,3.08
+Starbucks,3835-153473,Taylor's Lakeside,Licensed,"No. 1, Jalan Taylor's, Ground Floor, Lot G.1",Subang Jaya,Selangor,MALAYSIA,47500,03-53126858,GMT+08:00 Asia/Kuala_Lumpur,101.6,3.07
+Starbucks,31777-115328,Metro Point Kajang,Licensed,"Seksyen 7, Bandar Kajang, Lot G19 & G30",Ulu Langat,Selangor,MALAYSIA,43000,03-87368727,GMT+08:00 Asia/Kuala_Lumpur,101.79,2.99
+Starbucks,32359-136499,The Mall Bangkae,Company Owned,"275, G Zone Fashion Hall 1, Moo 1, Petchakasem Road",Bangkae,Bangkok,THAILAND,10160,844387432,GMT+07:00 Asia/Bangkok,100.41,13.71
+Starbucks,2046-141768,CDC,Company Owned,"Crytal Design Center, Room No.Z2.143, Soi Lardprao 87",Bangkapi,Bangkok,THAILAND,10240,819393806,GMT+07:00 Asia/Bangkok,100.62,13.8
+Starbucks,1478-142236,Vejthani Hospital,Company Owned,"Vejthani Hospital, No.1, Soi Lardprao 111, Lardprao Road",Bangkapi,Bangkok,THAILAND,10240,844387449,GMT+07:00 Asia/Bangkok,100.64,13.77
+Starbucks,17707-182486,The Scene Town in Town,Company Owned,"Sriwara Road, Wana Thong Lang, Sriwara Road,, The Mall Bangkapi",Bangkapi,Bangkok,THAILAND,10310,847517727,GMT+07:00 Asia/Bangkok,100.61,13.77
+Starbucks,33741-253264,The Mall Bangkapi G/F,Company Owned,"3522, Food Center G Floor, The Mall Bangkapi, Ladprao Road, The Mall Bangkapi",Bangkapi,Bangkok,THAILAND,10240,844387362,GMT+07:00 Asia/Bangkok,100.64,13.77
+Starbucks,1488-142949,The Mall Bangkapi-Main Hall,Company Owned,"3522, Main Hall 2nd Floor, The Mall Bangkapi, Ladprao Road",Bangkapi,Bangkok,THAILAND,10240,844387334,GMT+07:00 Asia/Bangkok,100.64,13.77
+Starbucks,18294-188424,The Mall 3 Ramkhamhaeng,Company Owned,"1909 The Mall Shopping Center 3, Ramkamheang, Ramkamheang Road",Bangkapi,Bangkok,THAILAND,10240,847517625,GMT+07:00 Asia/Bangkok,100.61,13.75
+Starbucks,3154-141691,The Mall Ngamwongwan-GF,Company Owned,"The Mall Ngamwongwan, No. 30/39-50, Moo 2, Ngamwongwan",Bangkhen,Nonthaburi,THAILAND,11000,844387428,GMT+07:00 Asia/Bangkok,100.54,13.86
+Starbucks,31820-123524,Central Ramindra,Company Owned,"302/1 Central Ramindra Dept Room 117&118, Moo 3, Central Ramindra, Ramindra Road, Chatrium Residence Building",Bangkhen,Bangkok,THAILAND,10220,844387415,GMT+07:00 Asia/Bangkok,100.6,13.87
+Starbucks,32095-130704,Riverside Garden,Company Owned,"Unit26/6&unit26/7 Ground Floor Lobby,, 26 Chatrium Residence, Charoenkrung Road, Central Rama II",Bangkhorlaem,Bangkok,THAILAND,10120,844387422,GMT+07:00 Asia/Bangkok,100.51,13.71
+Starbucks,33731-80440,Rama2,Company Owned,"128, 1st Floor Central Plaza Rama 2, Moo 6 Rama 2 Road",Bangkhuntien,Bangkok,THAILAND,10150,844387348,GMT+07:00 Asia/Bangkok,100.44,13.66
+Starbucks,30990-101743,Major Pinklao,Company Owned,"554, 3rd Floor Major Pinklao, Borom Ratchonni Road",Bangkok Noi,Bangkok,THAILAND,10700,844387390,GMT+07:00 Asia/Bangkok,100.48,13.78
+Starbucks,17595-183724,Siriraj Hospital,Company Owned,"2 Siriraj Piyamaharajkarun, Phannok Road, Central Plaza Pinklao",Bangkok Noi,Bangkok,THAILAND,10700,848741731,GMT+07:00 Asia/Bangkok,100.49,13.76
+Starbucks,33707-256557,Pinklao-Relo,Company Owned,"7/318, 1st Floor Central Plaza Pinklao, Barom Ratchonni Road, Sivadon Building",Bangkok Noi,Bangkok,THAILAND,10700,922571208,GMT+07:00 Asia/Bangkok,100.48,13.78
+Starbucks,33703-11378,Convent,Company Owned,"1/3, Sivadon Building, Convent Road, Central City Bangna",Bangluck,Bangkok,THAILAND,10500,844387318,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,33710-13646,Bangna,Company Owned,"1093, 2nd Floor Central City Bangna, Bangna-Trad Road Km.3, Montien Plaza Shopping Mall",Bangna,Bangkok,THAILAND,10260,844387325,GMT+07:00 Asia/Bangkok,100.63,13.67
+Starbucks,33705-12083,Montien,Company Owned,"1st Floor Montien Plaza Shopping Mall, Near Suriwong Road",Bangrak,Bangkok,THAILAND,10500,844387320,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,24147-236047,United Center,Company Owned,"323 Silom road, Silom",Bangrak,Bangkok,THAILAND,10500,844387369,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,2048-141705,Boonmitr Building,Company Owned,"Boonmitr building No. 138, Silom road",Bangrak,Bangkok,THAILAND,10500,844387454,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,33743-95068,State Tower,Company Owned,"1055, State Tower Unit P1-12 and P1-13, Silom Road, Silom Complex",Bangrak,Bangkok,THAILAND,10500,844387364,GMT+07:00 Asia/Bangkok,100.52,13.72
+Starbucks,18229-181873,Silom Complex,Company Owned,"Silom Complex, 191, Silom Road",Bangrak,Bangkok,THAILAND,10500,913799267,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,30703-98237,Baan Silom,Company Owned,"663, Building 2 No. A1, Silom Road, U Chu Liang Building",Bangrak,Bangkok,THAILAND,10500,844387355,GMT+07:00 Asia/Bangkok,100.52,13.72
+Starbucks,33726-68941,U Chu Liang,Company Owned,"968, Rama 4 Road",Bangrak,Bangkok,THAILAND,10500,844387341,GMT+07:00 Asia/Bangkok,100.54,13.73
+Starbucks,33749-96437,SFX Ladprao,Company Owned,"1691, 6th Floor Central Ladprao, Phaholyothin Road, Central Plaza Ladprao",Chatuchak,Bangkok,THAILAND,10900,811719665,GMT+07:00 Asia/Bangkok,100.56,13.82
+Starbucks,33702-11376,Ladprao,Company Owned,"1693, 2nd Floor Central Plaza Ladprao, Phaholyothin Road, Siam Commercial Bank Building West",Chatuchak,Bangkok,THAILAND,10900,811719403,GMT+07:00 Asia/Bangkok,100.56,13.82
+Starbucks,33709-15178,SCB,Company Owned,"1st Floor Siam Commercial Bank, Building West, Ratchada Road",Chatuchak,Bangkok,THAILAND,10900,844387324,GMT+07:00 Asia/Bangkok,100.57,13.83
+Starbucks,32431-134825,Siam Future Ratchayothin,Company Owned,"234/2, Major Avenue Ratchayothin,, Room B108, first Floor, Ratchadapisek Rd",Chatujak,Bangkok,THAILAND,10900,844387434,GMT+07:00 Asia/Bangkok,100.57,13.83
+Starbucks,19002-191244,Bangpakok9 Inter Hosp,Company Owned,"Bangpakok 9 International Hospital 362, Rama 2 Road",Chomthong,Bangkok,THAILAND,10150,818053265,GMT+07:00 Asia/Bangkok,100.47,13.68
+Starbucks,18775-195210,DonMuang Airport (Domestic),Company Owned,"222, Vipawadee Rangsit Rd.",Don Muang,Bangkok,THAILAND,10210,908808757,GMT+07:00 Asia/Bangkok,100.6,13.92
+Starbucks,18776-195209,DonMuang Airport (Inter),Company Owned,"222, Vipawadee Rangsit Rd., Supreme Samsen Plaza",Don Muang,Bangkok,THAILAND,10210,6625043243,GMT+07:00 Asia/Bangkok,100.6,13.92
+Starbucks,13058-155768,Supreme Plaza - Bangkok,Company Owned,"Supreme Samsen Mall, No. 1024, Samsen road",Dusit,Bangkok,THAILAND,10300,844387463,GMT+07:00 Asia/Bangkok,100.52,13.79
+Starbucks,32668-137246,M Theatre-New Petchburi Road,Company Owned,"2884/2, New Petchburi road, Central Rama 9",Huay Kwang,Bangkok,THAILAND,10320,844387440,GMT+07:00 Asia/Bangkok,100.59,13.74
+Starbucks,16387-163825,Central Rama 9,Company Owned,"9/9, 1st Floor (unit no. 115), Central Rama 9, Phra Ram 9 Road, Ital Thai Tower",Huay Kwang,Bangkok,THAILAND,10320,819161365,GMT+07:00 Asia/Bangkok,100.57,13.76
+Starbucks,32197-132684,Ital Thai Tower,Company Owned,"2034 ItalThai Tower,1 F Retail Hall, New Petchburi Road",Huaykwang,Bangkok,THAILAND,10310,844387427,GMT+07:00 Asia/Bangkok,100.57,13.75
+Starbucks,33742-95037,Muang Thai Phatra,Company Owned,"Unit P230, 2 Flr MuangThaiPhatra Complex, Rachadapisek Rd",Huaykwang,Bangkok,THAILAND,10320,844387363,GMT+07:00 Asia/Bangkok,100.57,13.79
+Starbucks,31445-107044,Siam Future Esplanade,Company Owned,"99 Unit G04, Esplanade, Rachadapisek Road",Huaykwang,Bangkok,THAILAND,10310,844387403,GMT+07:00 Asia/Bangkok,100.57,13.77
+Starbucks,26227-243904,U-Place,Company Owned,Rama IX,Huaykwang,Bangkok,THAILAND,10310,922590175,GMT+07:00 Asia/Bangkok,100.57,13.76
+Starbucks,33764-100862,RCA,Company Owned,"23/49, Soonvijai Soi",Huaykwang,Bangkok,THAILAND,10320,844387379,GMT+07:00 Asia/Bangkok,100.58,13.75
+Starbucks,16681-168584,The Promenade,Company Owned,"587,589 1st Floor The Promenade, Ram Intra Rd",Kannayao,Bangkok,THAILAND,10320,908806195,GMT+07:00 Asia/Bangkok,100.68,13.83
+Starbucks,30622-100467,Fashion Island-,Company Owned,"5/5-6, Fashion Island, Moo 7 Ramindra Road",Khannayao,Bangkok,THAILAND,10230,844387359,GMT+07:00 Asia/Bangkok,100.68,13.82
+Starbucks,17125-179208,Grand 5,Company Owned,"87 Grand 5 Hotel & Plaza Sukhumvit, Bangkok, Sukhumvit Road Soi 5, Time Square Building",Klong Toey,Bangkok,THAILAND,10110,818390461,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,32598-136501,Time Square,Company Owned,"Time Square Building, No. 246, Sukhumvit road,, Srinakharinwirot University",Klong Toey,Bangkok,THAILAND,10110,844387439,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,8011-150274,Srinakharinwirot University,Company Owned,"Srinakharinwirot university No. 114, Soi Sukhumvit 23",Klong-toey Nua,Bangkok,THAILAND,10110,844387460,GMT+07:00 Asia/Bangkok,100.57,13.74
+Starbucks,31170-133731,Siam Future Nawamin,Company Owned,"13/41 Navamin Town Center, Moo 9, Kaset-Navamin Road",Klongklum,Bangkok,THAILAND,10240,844387429,GMT+07:00 Asia/Bangkok,100.65,13.81
+Starbucks,18782-188447,Sena Fest,Company Owned,"542,542/1-2, Chareon-Nakhon road, Ploenchit Center",Klongsan,Bangkok,THAILAND,10600,819376763,GMT+07:00 Asia/Bangkok,100.51,13.72
+Starbucks,33763-98009,Ploenchit Center,Company Owned,"2, Ploenchit Center, Sukumvit Road, Emporium Tower",Klongtey,Bangkok,THAILAND,10110,844387357,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,33716-33481,Emporium Tower,Company Owned,"662, Sukumvit Road",Klongtoey,Bangkok,THAILAND,10110,844387329,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,31587-117324,Exchange Tower,Company Owned,"388 ground Floor, Sukhumvit Road,, Emporium Mall",Klongtoey,Bangkok,THAILAND,10110,844387406,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,33719-238366,Emporium Mall,Company Owned,"662, Sukumvit Road",Klongtoey,Bangkok,THAILAND,10110,6622598758,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,31879-121687,Bangkok Mediplex,Company Owned,"Mediplex building, No. 2, Sukhumvit 42 road",Klongtoey,Bangkok,THAILAND,10250,844387417,GMT+07:00 Asia/Bangkok,100.58,13.72
+Starbucks,30942-103786,Carrefour Rama IV,Company Owned,"2929, Ground Floor Carrefour Rama IV, Rama 4 Road",Klongtoey,Bangkok,THAILAND,10110,844387395,GMT+07:00 Asia/Bangkok,100.57,13.72
+Starbucks,1369-142606,Queen Sirikit Center,Company Owned,"60, New Ratchadapisek",Klongtoey,Bangkok,THAILAND,10110,844387448,GMT+07:00 Asia/Bangkok,100.56,13.72
+Starbucks,3155-145084,SF Nawamin City Avenue,Company Owned,"Nawamin City Avenue, unit A108,, ground floor, 30/19, Moo 4",Ladprao,Bangkok,THAILAND,10230,844387452,GMT+07:00 Asia/Bangkok,100.61,13.83
+Starbucks,32102-130344,The Crystal,Company Owned,"64/98-99, Moo 6, Praditmanootham Road",Lardprao,Bangkok,THAILAND,10230,844387423,GMT+07:00 Asia/Bangkok,100.62,13.81
+Starbucks,20060-202665,Bee Hive,Company Owned,"50/1211 Moo 9, Bangpood ,Pakkred",Nonthaburi,Nonthaburi,THAILAND,11120,613867697,GMT+07:00 Asia/Bangkok,100.54,13.91
+Starbucks,30714-101101,Impact Challenger,Company Owned,"Impact Chalenger, Popular Road",Pakkred,Nonthaburi,THAILAND,11120,844387380,GMT+07:00 Asia/Bangkok,100.55,13.91
+Starbucks,31108-104468,Central World Plaza-Third Floor,Company Owned,"4, 4/1 & 4/2, Shop A305, 3rd Fl Zone A, Central World Plaza Ratchadamri Rd",Pathumwan,Bangkok,THAILAND,10330,844387461,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,32546-136497,Chamchuri Square,Company Owned,"Chamchuri Square, No. 317, Phayathai",Pathumwan,Bangkok,THAILAND,10330,844387436,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,31627-114005,Siam Paragon 1st Floor,Company Owned,"991 Common Area Siam Paragon 1 Floor, (In front of shop ALTA MODA),  Rama I, The 19th Chidlom Mall",Pathumwan,Bangkok,THAILAND,10330,844387410,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,15220-158906,The 19th Chidlom - Bangkok,Company Owned,"The 19th Chidlom, No. 19, Unit no. 101, Soi Chidlom, Ploenchit road, Siam Square soi 7",Pathumwan,Bangkok,THAILAND,10330,843609910,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,1135-152684,Siam Square - Block L,Company Owned,"Siam Kitti Building, unit no.115, G/F, Siam Square Soi 7, Rama I road",Pathumwan,Bangkok,THAILAND,10330,844387456,GMT+07:00 Asia/Bangkok,100.53,13.74
+Starbucks,33751-139108,B2S (Chidlom2),Company Owned,"1027, 7th Flr Central Chidlom Dept Store, Ploenchit Road, 1st Floor, (1A06-07) MBK Tower",Patumwan,Bangkok,THAILAND,10330,844387344,GMT+07:00 Asia/Bangkok,100.54,13.74
+Starbucks,33721-44759,Mahboonkrong,Company Owned,"444, 1st Floor  (1A06-07) MBK Tower, Prayathai Road",Patumwan,Bangkok,THAILAND,10120,844387335,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,33730-78939,Langsuan,Company Owned,"39, Langsuan Road",Patumwan,Bangkok,THAILAND,10330,844387346,GMT+07:00 Asia/Bangkok,100.54,13.74
+Starbucks,30818-102733,Siam Paragon-Street Level,Company Owned,"Street Level Siam Paragon, Rama 1 Road",Patumwan,Bangkok,THAILAND,10330,844387385,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,30819-102783,Siam Paragon-QConcept,Company Owned,"3rd Floor Siam Paragon, Rama 1 Road",Patumwan,Bangkok,THAILAND,10330,844387386,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,33729-79003,All Season Place,Company Owned,"87/2, Unit 102 1st Floor, All Season Place Retail, Wireless Rd",Patumwan,Bangkok,THAILAND,10330,844387345,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,31656-110434,MBK-SF Cinema City,Company Owned,"444, B1 Room 7th Floor MBK Center, Prayathai Road, B113 1st Floor, World Trade Center 4/1-2",Patumwan,Bangkok,THAILAND,10330,844387353,GMT+07:00 Asia/Bangkok,100.53,13.74
+Starbucks,33722-210348,World Trade Center,Company Owned,"4/1-2, B113 1st Floor, Central World Plaza, Ratdumri Road",Patumwan,Bangkok,THAILAND,10330,844387336,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,30916-102880,Siam Paragon-Major,Company Owned,"5th Floor Siam Paragon, Rama 1 Road",Patumwan,Bangkok,THAILAND,10330,844387387,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,24146-235709,Sindhorn Tower,Company Owned,"Wireless road, Lumpini, Amarin Plaza",Patumwan,Bangkok,THAILAND,10330,614108969,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,33706-12418,Amarin,Company Owned,"500, 1st Floor Amarin Plaza, Ploenchit Road",Patumwan,Bangkok,THAILAND,10330,844387321,GMT+07:00 Asia/Bangkok,100.54,13.74
+Starbucks,30675-101029,Office Central World,Company Owned,"999/9, 3rd Floor Office Central World, Rama 1 Road",Patumwan,Bangkok,THAILAND,10330,844387361,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,17339-169625,Seacon Square Bangkae,Company Owned,"607 Seacon Square Bangkae, Petchkasem Road, Grand Diamond Plaza",Phasi Charoen,Bangkok,THAILAND,10160,848741732,GMT+07:00 Asia/Bangkok,100.43,13.71
+Starbucks,12984-155644,Grand Diamond Plaza - Bangkok,Company Owned,"Grand Diamond Plaza, No. 888, Petchburi road",Phayathai,Bangkok,THAILAND,10400,844387462,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,33738-107023,SF Phaholyothin,Company Owned,"356 unit 101, La Villa, Phaholyothin Road",Phayathai,Bangkok,THAILAND,10300,844387404,GMT+07:00 Asia/Bangkok,100.54,13.78
+Starbucks,24447-237864,Tha Maharaj,Company Owned,"1/11 Trok Mahathat, Maharaj Rd, Phrabarommaharajwang",Phranakorn,Bangkok,THAILAND,10200,844387402,GMT+07:00 Asia/Bangkok,100.49,13.75
+Starbucks,19218-199829,SOHO,Company Owned,"613, Bumrungmuang Road,",Pomprabsutrupai,Bangkok,THAILAND,10100,819388131,GMT+07:00 Asia/Bangkok,100.51,13.75
+Starbucks,31071-103785,SF Piyarom,Company Owned,"3079/25, Piyarom Place, Piyabuth Soi Sukumvit Road",Prakanong,Bangkok,THAILAND,10260,844387397,GMT+07:00 Asia/Bangkok,100.61,13.69
+Starbucks,17561-183072,Baan Chart,Company Owned,"Baan Chart, 98 Jakkraphong Road",Pranakorn,Bangkok,THAILAND,10200,848758541,GMT+07:00 Asia/Bangkok,100.5,13.76
+Starbucks,33762-100218,Seacon Square,Company Owned,"904, 2nd Floor Seacon Square, Moo 6 Srinakarin Road, Paradise Park",Prawet,Bangkok,THAILAND,10250,844387368,GMT+07:00 Asia/Bangkok,100.65,13.69
+Starbucks,9198-152606,Paradise Park - Bangkok,Company Owned,"Paradise Park shopping plaza, No. 61, Unit 2C023, 2nd floor, Srinakharin road, IDEO Phayathai Condominium",Prawet,Bangkok,THAILAND,10260,844387457,GMT+07:00 Asia/Bangkok,100.65,13.69
+Starbucks,32356-152026,IDEO Phayathai,Company Owned,"134/9, Ideo Building, Phayathai Road, Thepparat Building - Rama Hospital",Rajthewi,Bangkok,THAILAND,10400,844387490,GMT+07:00 Asia/Bangkok,100.53,13.76
+Starbucks,15610-163350,Ramathibodi Hospital,Company Owned,"Ramathibodi Hospital  270, 1st floor, Somdej Pra Thep Building, Rama 6 Road, Shibuya 19 Shopping Mall",Ratchathewi,Bangkok,THAILAND,10400,844387316,GMT+07:00 Asia/Bangkok,100.53,13.77
+Starbucks,15170-158244,Shibuya 19.,Company Owned,"Shibuya 19 No.919, New Petchaberee rd.",Ratchathewi,Bangkok,THAILAND,10400,844390466,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,49374-267968,B.Care Medical Center Hospital,Company Owned,"26 Moo 9 , Pahonyotin road, Saimai, Pure Place Sammakom Mall",Saimai,Bangkok,THAILAND,10220,625984859,GMT+07:00 Asia/Bangkok,100.62,13.94
+Starbucks,13180-154211,Pure Place Sammakorn - Bangkok,Company Owned,"Pure Place Ramkamheang 110, unit B110, B111, 1F, Ramkamheang road",Saphansung,Bangkok,THAILAND,10240,844387459,GMT+07:00 Asia/Bangkok,100.67,13.78
+Starbucks,21832-215326,Robinson Saraburi,Company Owned,"Moo 7 Taling Chang, Muang Saraburi",Saraburi,Saraburi,THAILAND,18000,922614328,GMT+07:00 Asia/Bangkok,100.95,14.54
+Starbucks,31110-102325,Life Center,Company Owned,"1, Q House Lumpini Building, South Sathon Road, BKK City Tower",Sathorn,Bangkok,THAILAND,10120,844387392,GMT+07:00 Asia/Bangkok,100.54,13.73
+Starbucks,33714-23207,Bangkok City,Company Owned,"179, 1st Floor  BKK City Tower, South  Sathorn Road, Empire Tower",Sathorn,Bangkok,THAILAND,10120,844387327,GMT+07:00 Asia/Bangkok,100.53,13.72
+Starbucks,33724-54539,Empire Tower,Company Owned,"195, G Floor Empire Tower, South Sathon Road",Sathorn,Bangkok,THAILAND,10120,844387340,GMT+07:00 Asia/Bangkok,100.53,13.72
+Starbucks,24234-234344,Sathorn City Tower,Company Owned,"175, Sathorn Tai Rd., Thung Maha Mek,Sathorn",Sathorn,Bangkok,THAILAND,10120,614100115,GMT+07:00 Asia/Bangkok,100.53,13.72
+Starbucks,15495-157924,The Nine Neighborhood Center,Company Owned,Rama 9 Road,Saunlaung,Bangkok,THAILAND,10250,818108493,GMT+07:00 Asia/Bangkok,100.63,13.74
+Starbucks,26231-243905,Samitivej Srinakarin Hospital,Company Owned,"Srinakarin, The Circle Ratchapruk",Suanluang,Bangkok,THAILAND,10250,626029419,GMT+07:00 Asia/Bangkok,100.64,13.75
+Starbucks,15337-156229,The Circle Ratchapruk-Bangkok,Company Owned,"The Circle Ratchapruk, No. 39, Unit R2 & R4, Moo.13, Ratchapruk road",Talingchan,Bangkok,THAILAND,10170,844387317,GMT+07:00 Asia/Bangkok,100.44,13.77
+Starbucks,2037-136505,The Mall Tha Phra-Main Hall,Company Owned,"The Mall Tha Phra, No. 99,, Ratchadapisek road",Thonburi,Bangkok,THAILAND,10600,844387458,GMT+07:00 Asia/Bangkok,100.48,13.71
+Starbucks,31556-115744,PharMax,Company Owned,"275, 1rst Floor, Praditmanutham Road,",Wangthonglang,Bangkok,THAILAND,10310,844387405,GMT+07:00 Asia/Bangkok,100.6,13.77
+Starbucks,16540-168264,Bangkok Plaza-BKH2,Company Owned,"2, Bangkok Hospital,  Bangkok Plaz Bldg, Soonvijai 7 Soi New Petchaburi Road",Wangtonglang,Bangkok,THAILAND,10310,818457420,GMT+07:00 Asia/Bangkok,100.58,13.75
+Starbucks,31004-102326,Bangkok Hospital,Company Owned,"2, Bangkok Hospital, Soonvijai 7 Soi New Petchaburi Road, 50, Grammy Place",Wangtonglang,Bangkok,THAILAND,10310,844387391,GMT+07:00 Asia/Bangkok,100.58,13.75
+Starbucks,33727-76860,Grammy,Company Owned,"50, Grammy Place, Sukhumvit 21 Road",Wattana,Bangkok,THAILAND,10110,844387342,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,33758-99602,Samitivej Hospital,Company Owned,"133, Samitivej Hospital, Sukumvit 49 Soi Sukumvit Road, SF Town Center 6 (Thonglor)",Wattana,Bangkok,THAILAND,10110,844387375,GMT+07:00 Asia/Bangkok,100.58,13.73
+Starbucks,33732-82185,Thonglor2,Company Owned,"150/1, Building A, SF Town Center 6, Sukumvit Soi 55 (Thonglor), Bumrungrad Hospital",Wattana,Bangkok,THAILAND,10110,844387347,GMT+07:00 Asia/Bangkok,100.58,13.73
+Starbucks,33704-11379,Bumrungrad Hospital,Company Owned,"33/3, 1st Floor Bumrungrad Hospital, Sukumvit Soi 3, Sukumvit Road",Wattana,Bangkok,THAILAND,10110,844387319,GMT+07:00 Asia/Bangkok,100.55,13.75
+Starbucks,18525-188425,Jasmine City,Company Owned,"Jasmine City 2, Soi Prasarnmitr, (Sukhumvit 23) Sukhumvit road, Terminal 21 Building",Wattana,Bangkok,THAILAND,10110,817557365,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,16147-153305,Terminal 21,Company Owned,"88, Terminal 21, Floor M, Room no.M-410,411,412 - Soi Sukhumvit 19",Wattana,Bangkok,THAILAND,10110,818227528,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,33756-98549,Nana Square,Company Owned,"49, Nana Square, Sukumvit Road",Wattana,Bangkok,THAILAND,10110,844387349,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,33759-97834,The 49 Terrace,Company Owned,"49, The 49 Terrace, Sukumvit 49 Soi Sukumvit Road, Bumrungrad Hospital -  Intl Clinic Bldg",Wattana,Bangkok,THAILAND,10110,844387351,GMT+07:00 Asia/Bangkok,100.58,13.73
+Starbucks,32430-133730,Bumrungrad Hospital 2,Company Owned,"Sky Lobby 10th Floor 33 Sukhumvit 3, Sukhumvit Road",Wattana,Bangkok,THAILAND,10110,844387433,GMT+07:00 Asia/Bangkok,100.55,13.75
+Starbucks,30919-103327,Citi Resort,Company Owned,"79 Unit S104, 1st Floor Citi Resort, Sukumvit 39 Soi Sukumvit Road",Wattana,Bangkok,THAILAND,10110,844387393,GMT+07:00 Asia/Bangkok,100.57,13.74
+Starbucks,33717-30504,Thonglor,Company Owned,"231, Sukumvit Soi 55 (Thonglor)",Wattana,Bangkok,THAILAND,10110,844387330,GMT+07:00 Asia/Bangkok,100.58,13.73
+Starbucks,30768-100362,Siam Future Ekkamai,Company Owned,"78/2, Sukumvit 63 Soi",Wattana,Bangkok,THAILAND,10110,844387382,GMT+07:00 Asia/Bangkok,100.59,13.73
+Starbucks,17430-181871,Int Rama 3,Company Owned,"982, Rama 3 Road, 79, 1st Floor Central Plaza Rama 3",Yannawa,Bangkok,THAILAND,10120,908806196,GMT+07:00 Asia/Bangkok,100.54,13.67
+Starbucks,33713-146284,Central Rama 3,Company Owned,"79, 1st Floor Central Plaza Rama 3, Sathupradit Road",Yannawa,Bangkok,THAILAND,10120,844387326,GMT+07:00 Asia/Bangkok,100.54,13.7
+Starbucks,33753-97640,Belle Park,Company Owned,"315/601-2, Sathupradit Road",Yannawa,Bangkok,THAILAND,10120,844387371,GMT+07:00 Asia/Bangkok,100.54,13.7
+Starbucks,28839-251146,Vanit Place,Company Owned,1126/1 New Petchburi Rd,Bangkok,Bangkok,THAILAND,10400,844387401,GMT+07:00 Asia/Bangkok,100.55,13.75
+Starbucks,22334-218964,Im Park Sam Yan,Company Owned,"272 Soi Chula 22, Wangmai, Pathum Wan, A Link",Bangkok,Bangkok,THAILAND,10330,922464190,GMT+07:00 Asia/Bangkok,100.52,13.74
+Starbucks,25906-242707,A Link Square,Company Owned,"44 Soi Sukhumvit 71,Ramkhamhaeng rd., Saunluang",Bangkok,Bangkok,THAILAND,10250,614033514,GMT+07:00 Asia/Bangkok,100.6,13.74
+Starbucks,33728-152607,Camp Davis,Company Owned,"88, Camp Davis, Sukhumvit 24 Soi",Bangkok,Bangkok,THAILAND,10110,844387343,GMT+07:00 Asia/Bangkok,100.57,13.72
+Starbucks,21907-216326,Robinson Bangrak,Company Owned,"Charoenkrung Road, Bangrak, Tree on 3",Bangkok,Bangkok,THAILAND,10500,922614374,GMT+07:00 Asia/Bangkok,100.52,13.72
+Starbucks,29615-254364,Tree on 3,Company Owned,"Rama 3 rd., Bangklo, Bang Kho Laem",Bangkok,Bangkok,THAILAND,10120,632673396,GMT+07:00 Asia/Bangkok,100.5,13.69
+Starbucks,26451-230784,The JAS Ramintra,Company Owned,"Ladplakhao Road, Bangkhen district",Bangkok,Bangkok,THAILAND,10220,982573206,GMT+07:00 Asia/Bangkok,100.61,13.86
+Starbucks,21631-213624,Grand China Hotel,Company Owned,"215 Yaowarat Road,Samphantawong",Bangkok,Bangkok,THAILAND,10100,922624408,GMT+07:00 Asia/Bangkok,100.51,13.74
+Starbucks,25152-239944,Abdulrahim Place,Company Owned,"990, Rama IV Road, Silom, Bangrak, Central East Ville - Fashion Galleria",Bangkok,Bangkok,THAILAND,10500,614108965,GMT+07:00 Asia/Bangkok,100.54,13.73
+Starbucks,29995-256329,Central East Ville-Fashion Zone,Company Owned,"Praditmanootham Road, Lardprao Lardprao, Show DC",Bangkok,Bangkok,THAILAND,10230,632673372,GMT+07:00 Asia/Bangkok,100.61,13.8
+Starbucks,49617-269864,Show DC,Company Owned,"Jaturatid Road,Bangkapi, Huai Khwang",Bangkok,Bangkok,THAILAND,10310,625988479,GMT+07:00 Asia/Bangkok,100.57,13.75
+Starbucks,26019-243024,Sikarin Hospital,Company Owned,"4/29 moo 10 Sinakharin rd, Bangna,, Ideo Mobi Charan-Interchange",Bangkok,Bangkok,THAILAND,10260,614033516,GMT+07:00 Asia/Bangkok,100.65,13.65
+Starbucks,49375-268164,Ideo Mobi Charan-Interchange,Company Owned,"531/1-2 Ideo Mobi Charan-Interchange, Ch, Bangkoknoi",Bangkok,Bangkok,THAILAND,10700,613977922,GMT+07:00 Asia/Bangkok,100.47,13.76
+Starbucks,21807-215328,Paseo Mall Ladkrabang,Company Owned,318/5 Ladkrabang Rd. Ladgrabang,Bangkok,Bangkok,THAILAND,10520,922614380,GMT+07:00 Asia/Bangkok,100.73,13.72
+Starbucks,20366-205085,The Walk Kaset Nawamintra,Company Owned,"505,507,509,511,511/1, 511/2, Prasertmanukij Road, Ladprao",Bangkok,Bangkok,THAILAND,10230,818702373,GMT+07:00 Asia/Bangkok,100.63,13.83
+Starbucks,24235-220827,The X Place,Company Owned,"Kanchanapisek Road, Bangkae",Bangkok,Bangkok,THAILAND,10160,625931377,GMT+07:00 Asia/Bangkok,100.41,13.69
+Starbucks,19971-188453,Siam Square 1,Company Owned,"Rama 1 Road, Patumwan, Little Walk Bangna",Bangkok,Bangkok,THAILAND,10330,922464191,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,49440-268886,Little Walk Bangna,Company Owned,"769-769/3 Bangna-Trad Bangna, Bang Na, CTI Tower",Bangkok,Bangkok,THAILAND,10260,614202172,GMT+07:00 Asia/Bangkok,100.64,13.67
+Starbucks,29166-252506,CTI Tower,Company Owned,"Ratchadapisek Rd., Klongtoey",Bangkok,Bangkok,THAILAND,10110,614217567,GMT+07:00 Asia/Bangkok,100.56,13.73
+Starbucks,21111-209424,Victoria Garden,Company Owned,"Phetkasem Road, Laksong Sub-district, Bangkhae District",Bangkok,Bangkok,THAILAND,10160,982514518,GMT+07:00 Asia/Bangkok,100.38,13.71
+Starbucks,21878-215724,Plearnary Mall Watcharapol,Company Owned,"Watcharapol rd., Tha Rang, Gaysorn Shopping Centre",Bangkok,Bangkok,THAILAND,10220,922834979,GMT+07:00 Asia/Bangkok,100.65,13.86
+Starbucks,47429-258009,Gaysorn Shopping Centre,Company Owned,"999 Ploenchit road, Lumpini Pathumwan",Bangkok,Bangkok,THAILAND,10330,625933786,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,33740-175304,Siam Discovery,Company Owned,"989 Siam discovery & Siam tower, Rama 1 Rd., Kasetsart University",Bangkok,Bangkok,THAILAND,10330,632673410,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,27192-246869,Kasetsart University,Company Owned,"50 Ngam Wong Wan Rd,, Ladyaow,Chatuchak",Bangkok,Bangkok,THAILAND,10900,844387322,GMT+07:00 Asia/Bangkok,100.57,13.84
+Starbucks,22137-218144,UBC 2,Company Owned,"591 Sukhumvit Road  North Klongton, Vadhana, Emporium Atelier",Bangkok,Bangkok,THAILAND,10110,922624305,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,29613-254365,Emporium Atelier,Company Owned,"662 Sukumvit Road, Klongtan,Klongtoey",Bangkok,Bangkok,THAILAND,10110,614028099,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,24264-236806,The Paseo Park Kanchanaphisek,Company Owned,"8/14 Kanchanaphisek Road, Sala Thammasop, Happy Avenue Ladprao 101",Bangkok,Bangkok,THAILAND,10170,614108966,GMT+07:00 Asia/Bangkok,100.41,13.77
+Starbucks,29993-256326,Happy Avenue Ladprao 101,Company Owned,"787/101 Soi Ladprao 101  Ladprao Rd., Klong Chao Khun Singha, Wangthonglang",Bangkok,Bangkok,THAILAND,10310,632262108,GMT+07:00 Asia/Bangkok,100.63,13.79
+Starbucks,22405-214064,The JAS Wanghin,Company Owned,"Ladprao - Wanghin Road, Ladprao",Bangkok,Bangkok,THAILAND,10230,922601403,GMT+07:00 Asia/Bangkok,100.59,13.82
+Starbucks,24081-232246,Sun Towers,Company Owned,"123 Vibhavadi-Rangsit rd., Chomphon Chatuchak, Ideo Q Chula-Samyan",Bangkok,Bangkok,THAILAND,10900,614108961,GMT+07:00 Asia/Bangkok,100.56,13.81
+Starbucks,49376-268165,Ideo Q Chula-Samyan,Company Owned,"Ideo Q Chula-Samyan 660 Rama4 Rd., Mahap, Bangrak",Bangkok,Bangkok,THAILAND,10500,613977923,GMT+07:00 Asia/Bangkok,100.53,13.73
+Starbucks,19297-188464,Central Embassy,Company Owned,"Plernjit Road, Loompinee, Patumwan, Central Bangna Ground Floor",Bangkok,Bangkok,THAILAND,10330,982514521,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,26228-243927,Central Bangna 1st Floor,Company Owned,"1093, G Floor Central City Bangna Bangna, Bangna, Athenee Tower",Bangkok,Bangkok,THAILAND,10260,982573303,GMT+07:00 Asia/Bangkok,100.63,13.67
+Starbucks,27193-246870,Athenee Tower,Company Owned,"63 Thanon Witthayu, Lumphini, Pathum Wan, Quartier Cineart",Bangkok,Bangkok,THAILAND,10330,844387358,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,29616-254324,Quartier Cineart,Company Owned,"621 Sukhumvit Rd, Khwaeng Khlong Tan Nuea, Khet Watthana,, The Mall Bangkapi-4th Floor",Bangkok,Bangkok,THAILAND,10110,626029505,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,29041-252084,The Mall Bangkapi-4th Floor,Company Owned,"3522, 4th Floor The Mall Bangkapi, Ladpr, Klongjang, Bangkapi, Riverside Plaza",Bangkok,Bangkok,THAILAND,10240,614217056,GMT+07:00 Asia/Bangkok,100.64,13.77
+Starbucks,29925-255985,Riverside Plaza,Company Owned,"257/6 Charoennakorn rd., Sumre, Thonburi, Central East Ville-Think Space",Bangkok,Bangkok,THAILAND,10600,626029460,GMT+07:00 Asia/Bangkok,100.49,13.71
+Starbucks,29996-256330,Central East Ville-Think Spaze,Company Owned,"Praditmanootham Road, Lardprao,Lardprao",Bangkok,Bangkok,THAILAND,10230,632262117,GMT+07:00 Asia/Bangkok,100.61,13.8
+Starbucks,25570-241248,Phyathai 2 Hospital,Company Owned,"943 Phaholyothin Road, Samsannai, Phyathai",Bangkok,Bangkok,THAILAND,10400,613980128,GMT+07:00 Asia/Bangkok,100.54,13.77
+Starbucks,18684-188446,Sathorn Square,Company Owned,"Sathorn Road, Sathorn, The Ninth Towers",Bangkok,Bangkok,THAILAND,10120,982514517,GMT+07:00 Asia/Bangkok,100.53,13.72
+Starbucks,48285-262144,The Ninth Towers,Company Owned,"33/4 Rama 9 road,, Huaykwang, Huaykwang, Amorini Boutique Lifestyle Mall",Bangkok,Bangkok,THAILAND,10310,632262119,GMT+07:00 Asia/Bangkok,100.57,13.76
+Starbucks,20367-205084,Amorini,Company Owned,1 Suansiam Rd Kannayao Kannayao,Bangkok,Bangkok,THAILAND,10230,844276489,GMT+07:00 Asia/Bangkok,100.69,13.81
+Starbucks,19711-188452,Paseo Town Ramkhamhaeng,Company Owned,"C101,C201 Ramkhamhaeng Rd.,, Saphansung, Saphansung",Bangkok,Bangkok,THAILAND,10240,922798171,GMT+07:00 Asia/Bangkok,100.67,13.77
+Starbucks,21432-211884,Praram 9 Hospital,Company Owned,"99 Soi Praram 9 Hospital, Rama IX road, Huaykwang, The Bright Rama 2",Bangkok,Bangkok,THAILAND,10320,982514522,GMT+07:00 Asia/Bangkok,100.57,13.75
+Starbucks,27424-247528,The Bright Rama 2,Company Owned,"15/9 Rama2 Rd, Thakarm, Bamgkhuntian, The Street",Bangkok,Bangkok,THAILAND,10150,614216871,GMT+07:00 Asia/Bangkok,100.45,13.67
+Starbucks,26559-244388,The Street,Company Owned,"139 Ratchadapisek Rd., DinDaeng, DinDaeng, Siam Center",Bangkok,Bangkok,THAILAND,10400,625901123,GMT+07:00 Asia/Bangkok,100.57,13.77
+Starbucks,33708-197425,Siam Center,Company Owned,"1st Fl.,  Rama I Rd.",Bangkok,Bangkok,THAILAND,10330,844387323,GMT+07:00 Asia/Bangkok,100.53,13.75
+Starbucks,19182-188449,Mercury Ville,Company Owned,"540 Mercury Tower, Ploenchit rd, Lumpini, Pathumwan District",Bangkok,Bangkok,THAILAND,10330,818291163,GMT+07:00 Asia/Bangkok,100.54,13.74
+Starbucks,49881-270792,All Season Place 2,Company Owned,"87/2 All Season Place,  Wireless Road, Phatumwan, Yodpiman The River Walk",Bangkok,Bangkok,THAILAND,10330,625985640,GMT+07:00 Asia/Bangkok,100.55,13.74
+Starbucks,25679-241664,Yodpiman River Walk,Company Owned,"390/17, Baan Moh rd. Wang Burapabhirom Pranakor, Station One",Bangkok,Bangkok,THAILAND,10200,922590174,GMT+07:00 Asia/Bangkok,100.5,13.74
+Starbucks,48465-263245,Station One,Company Owned,"Charoen Krung rd.,Pom Prap,Pom Prap Satt",Bangkok,Bangkok,THAILAND,10100,613896260,GMT+07:00 Asia/Bangkok,100.51,13.74
+Starbucks,26449-236807,Food Villa,Company Owned,"Ratchaphruek Road, Banglamad, Talingchan",Bangkok,Bangkok,THAILAND,10170,614192837,GMT+07:00 Asia/Bangkok,100.44,13.76
+Starbucks,49914-271624,Fortune Town,Company Owned,"1 Ratchadaphisek Rd,, Din Daeng",Bangkok,Bangkok,THAILAND,10400,613977924,GMT+07:00 Asia/Bangkok,100.56,13.76
+Starbucks,26661-239307,Suanplern Market,Company Owned,"Rama 4 Road, Klongtan, Klongtey, Emquartier",Bangkok,Bangkok,THAILAND,10110,614172004,GMT+07:00 Asia/Bangkok,100.57,13.72
+Starbucks,25169-239488,Emquartier,Company Owned,"693 Sukhumvit rd.,Klongtan-Nua, Wattana, Platinum Pratunam Basement",Bangkok,Bangkok,THAILAND,10110,614100113,GMT+07:00 Asia/Bangkok,100.57,13.73
+Starbucks,29994-256184,Platinum Pratunam Basement,Company Owned,"Basement Floor. The Platinum Fashion Mal, Ratchathewi, Wangburapha",Bangkok,Bangkok,THAILAND,10400,626029418,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,26763-245185,Wangburapha,Company Owned,"661,663 Chakpetch rd., Burapha-Pirom, Phranakhon",Bangkok,Bangkok,THAILAND,10200,844387435,GMT+07:00 Asia/Bangkok,100.5,13.75
+Starbucks,20662-207465,Phyathai 3 Hospital,Company Owned,"111 Phet Kasem Road, Pak Khlong Phasi Charoen, Grand President Hotel",Bangkok,Bangkok,THAILAND,10160,818699765,GMT+07:00 Asia/Bangkok,100.46,13.72
+Starbucks,49880-271224,Grand President Hotel,Company Owned,"11,14,16 Soi Sukhunvit 11, Klongtoey-Nua, Wattana",Bangkok,Bangkok,THAILAND,10110,844387320,GMT+07:00 Asia/Bangkok,100.56,13.74
+Starbucks,21406-211888,Platinum Novotel Pratunum,Company Owned,"220 Petchaburi Road, Ratchatevee",Bangkok,Bangkok,THAILAND,10400,844387431,GMT+07:00 Asia/Bangkok,100.54,13.75
+Starbucks,28840-251144,Lotus Sukhapiban 1,Company Owned,"629/1 Nawamintr road, Nuanchan, Buengkoom, Metro West Town",Bangkok,Bangkok,THAILAND,10230,614210122,GMT+07:00 Asia/Bangkok,100.66,13.83
+Starbucks,20890-188466,Metro West Town,Company Owned,"212/2 Kalapapruek rd., Bangwha, Phasi Charoen",Bangkok,Bangkok,THAILAND,10160,626015138,GMT+07:00 Asia/Bangkok,100.45,13.71
+Starbucks,22739-224348,SCG Experience,Company Owned,"1444 Soi Ladprao 87, Bangkapi, Ha Ha",Bangkok,Bangkok,THAILAND,10240,922464192,GMT+07:00 Asia/Bangkok,100.62,13.8
+Starbucks,23755-233148,Ha Ha,Company Owned,"Srinakharin, Nongbon, Prawet, Fashion Island-2nd floor",Bangkok,Bangkok,THAILAND,10260,922601402,GMT+07:00 Asia/Bangkok,100.65,13.69
+Starbucks,26764-245184,Fashion Island-2nd Floor,Company Owned,"5/5-6, Fashion Island, Khannayao, Khannayao",Bangkok,Bangkok,THAILAND,10230,614033517,GMT+07:00 Asia/Bangkok,100.68,13.83
+Starbucks,22393-220684,SCG Head Office 3,Company Owned,"Headquaters 1Siam Cement Road, Bangsue, MBK - Prathumwan Princess Hotel",Bangkok,Bangkok,THAILAND,10800,922624690,GMT+07:00 Asia/Bangkok,100.54,13.81
+Starbucks,27010-246324,MBK-Pathumwan Princess Hotel,Company Owned,"444, 1st Floor MBK Tower, Wangmai	Patumwan, V Market",Bangkok,Bangkok,THAILAND,10120,982573048,GMT+07:00 Asia/Bangkok,100.53,13.74
+Starbucks,27326-247165,V Market,Company Owned,"Chalongkrung Road, Khwaeng Lamplathiew,Khet Lad Krabang, The Rest Area @ Prachachuen",Bangkok,Bangkok,THAILAND,10520,614210194,GMT+07:00 Asia/Bangkok,100.8,13.76
+Starbucks,25680-212065,Aman Central,Licensed,"Lot G35 & G80, Aman Central Mall, Alor Setar Town, Kedah Darul Aman",Alor Setar,Kedah,MALAYSIA,,04731 3770,GMT+08:00 Asia/Kuala_Lumpur,100.37,6.13
+Starbucks,29500-253992,Ansa,Licensed,"Lot G.03, Ground Floor, 101, Jalan Bukit Bintang",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,,321130015,GMT+08:00 Asia/Kuala_Lumpur,101.69,3.15
+Starbucks,33929-242473,KLCC 1 (Closed),Licensed,"Kuala Lumpur City Centre, Lot G45A, Ground Floor",Kuala Lumpur,Wilayah Persekutuan,MALAYSIA,,0,GMT+08:00 Asia/Kuala_Lumpur,101.72,3.16
+Starbucks,47521-249024,Ease Park,Company Owned,Ramintra Road,Bangkok,Bangkok,THAILAND,,625985223,GMT+07:00 Asia/Bangkok,100.63,13.86
+Starbucks,21808-215325,Vanilla Moon,Company Owned,Chan Rd. Yannawa,Bangkok,Bangkok,THAILAND,,922464183,GMT+07:00 Asia/Bangkok,100.52,13.71
+Starbucks,1473-136503,Central Chaengwattana,Company Owned,Chaengwattana Rd,Bangkok,Nonthaburi,THAILAND,,844387446,GMT+07:00 Asia/Bangkok,100.53,13.9
+Starbucks,25904-242706,The Rest Area at Prachachuen,Company Owned,"Prachachuen rd., Bang-Sue",Bangkok,Bangkok,THAILAND,,614100116,GMT+07:00 Asia/Bangkok,100.53,13.84
+Starbucks,48239-254286,JAS Urban Srinakarin,Company Owned,"Srinakarin Road, Suvarnabhumi Intl Airport - BKK",Bangkok,Samut Prakarn,THAILAND,,625985157,GMT+07:00 Asia/Bangkok,100.63,13.64
+Starbucks,26907-242405,Baan Yai Wangnoi,Company Owned,"Phaholyothin Road, Wangnoi District",Ayutthaya,Ayutthaya,THAILAND,,626029490,GMT+07:00 Asia/Bangkok,100.73,14.24
+Starbucks,47713-259385,Blu Port Hua Hin,Company Owned,"Phetkasem Road, Hua Hin, Central Nakhonsithamarat",Prachuap Khirikhan,Prachuap Khiri Khan,THAILAND,,613977920,GMT+07:00 Asia/Bangkok,99.96,12.55
